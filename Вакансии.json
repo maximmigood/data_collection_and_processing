@@ -1,0 +1,2702 @@
+[
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u0443\u0447\u0430\u0441\u0442\u043a\u0430",
+    "companay": "\u041e\u041e\u041e\u00a0\u041c\u0421 \u041f\u041b\u0410\u0421\u0422",
+    "place": "\u0421\u0435\u0440\u043f\u0443\u0445\u043e\u0432",
+    "salary": {
+      "string": "60\u202f000 \u2013 70\u202f000 \u0440\u0443\u0431.",
+      "from": 60000,
+      "to": 70000,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://hhcdn.ru/click?b=324558&c=40&meta=Jrgybu7_owDk21EfqQsQkwvBVXf8Sm0ofb-vtWj2UxqACVVn74a9MjzhaJ_l3e9YjUO2o77q4HF4a8i6A0QMatyFxWpG4P92HFnHw_7wDpuU4B-SCPTCQOWlI-bLH2k0Th9LxdVvizbxpZcYSi4kwNnrt2Az8S3lq5Cc6YxaUO9QLPi0aPnzMwdXSdK3Kcd1OmTZPWqPbEsUME0gvWB2PQ%3D%3D&place=35&clickType=link_to_vacancy",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041e\u043f\u0435\u0440\u0430\u0442\u043e\u0440-\u043d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0439 \u043b\u0438\u043d\u0438\u0438",
+    "companay": "\u0410\u041e\u00a0\u041e\u0427\u0410\u041a\u041e\u0412\u041e",
+    "place": "\u041c\u043e\u0441\u043a\u0432\u0430, \u0413\u043e\u0432\u043e\u0440\u043e\u0432\u043e  \u0438 \u0435\u0449\u0435\u00a02\u00a0",
+    "salary": {
+      "string": "\u0434\u043e 150\u202f000 \u0440\u0443\u0431.",
+      "from": null,
+      "to": 150000,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/67365958?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a-\u043e\u043f\u0435\u0440\u0430\u0442\u043e\u0440 (\u0421\u043d\u0435\u043a\u043e\u0432\u044b\u0439 \u0437\u0430\u0432\u043e\u0434)",
+    "companay": "\u041e\u041e\u041e\u00a0PepsiCo",
+    "place": "\u041d\u043e\u0432\u043e\u0441\u0438\u0431\u0438\u0440\u0441\u043a",
+    "salary": {
+      "string": "\u043e\u0442 45\u202f000 \u0440\u0443\u0431.",
+      "from": 45000,
+      "to": null,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/70411190?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041c\u0435\u0445\u0430\u043d\u0438\u043a-\u043d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u043e\u0431\u043e\u0440\u0443\u0434\u043e\u0432\u0430\u043d\u0438\u044f",
+    "companay": "\u041e\u041e\u041e\u00a0\u0421\u043a\u0435\u0439\u043b \u042d\u043d\u0442\u0435\u0440\u043f\u0440\u0430\u0439\u0437",
+    "place": "\u041c\u043e\u0441\u043a\u0432\u0430",
+    "salary": {
+      "string": "\u043e\u0442 80\u202f000 \u0440\u0443\u0431.",
+      "from": 80000,
+      "to": null,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/69870466?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a",
+    "companay": "\u041a\u043e\u043c\u0443\u0441",
+    "place": "\u041c\u0430\u043b\u044b\u0435 \u0412\u044f\u0437\u0451\u043c\u044b",
+    "salary": {
+      "string": "\u043e\u0442 47\u202f500 \u0440\u0443\u0431.",
+      "from": 47500,
+      "to": null,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/69652950?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041e\u043f\u0435\u0440\u0430\u0442\u043e\u0440-\u043d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u0441\u0442\u0430\u043d\u043a\u043e\u0432 \u0441 \u0427\u041f\u0423",
+    "companay": "\u0410\u041e\u00a0\u041d\u0430\u0443\u0447\u043d\u043e-\u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u043a\u043e\u043c\u043f\u043b\u0435\u043a\u0441 \u0412\u0418\u041f",
+    "place": "\u0415\u043a\u0430\u0442\u0435\u0440\u0438\u043d\u0431\u0443\u0440\u0433, \u0427\u043a\u0430\u043b\u043e\u0432\u0441\u043a\u0430\u044f",
+    "salary": {
+      "string": "\u043e\u0442 80\u202f000 \u0440\u0443\u0431.",
+      "from": 80000,
+      "to": null,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/69720123?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a",
+    "companay": "\u041a\u043e\u043c\u0443\u0441",
+    "place": "\u041c\u0430\u043b\u043e\u044f\u0440\u043e\u0441\u043b\u0430\u0432\u0435\u0446",
+    "salary": {
+      "string": "\u043e\u0442 40\u202f600 \u0440\u0443\u0431.",
+      "from": 40600,
+      "to": null,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/66652374?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u0442\u043e\u043a\u0430\u0440\u043d\u043e\u0433\u043e \u0441\u0442\u0430\u043d\u043a\u0430 \u0441 \u0427\u041f\u0423",
+    "companay": "\u041e\u041e\u041e\u00a0\u0424\u0435\u0440\u0440\u043e\u043f\u043e\u043b\u0438\u0441",
+    "place": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433",
+    "salary": {
+      "string": "95\u202f000 \u2013 150\u202f000 \u0440\u0443\u0431.",
+      "from": 95000,
+      "to": 150000,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/69274544?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041c\u0435\u0445\u0430\u043d\u0438\u043a-\u043d\u0430\u043b\u0430\u0434\u0447\u0438\u043a",
+    "companay": "\u041e\u041e\u041e\u00a0\u0410\u0440\u043e\u043c\u0430 \u041f\u0440\u043e\u043c",
+    "place": "\u0414\u0435\u0434\u043e\u0432\u0441\u043a",
+    "salary": {
+      "string": "\u043e\u0442 62\u202f000 \u0440\u0443\u0431.",
+      "from": 62000,
+      "to": null,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/70337705?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041c\u0435\u0445\u0430\u043d\u0438\u043a-\u043d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u043f\u0438\u0449\u0435\u0432\u043e\u0433\u043e \u043e\u0431\u043e\u0440\u0443\u0434\u043e\u0432\u0430\u043d\u0438\u044f",
+    "companay": "\u041e\u041e\u041e\u00a0\u041a\u041e\u041d\u0421\u0415\u0420\u0412\u041f\u0420\u041e\u041c",
+    "place": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433",
+    "salary": {
+      "string": "\u043e\u0442 100\u202f000 \u0440\u0443\u0431.",
+      "from": 100000,
+      "to": null,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/70043945?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u0441\u0442\u0430\u043d\u043a\u043e\u0432 \u0441 \u0427\u041f\u0423",
+    "companay": "\u041e\u041e\u041e\u00a0\u0422\u0435\u0432\u0440",
+    "place": "\u041d\u0430\u0431\u0435\u0440\u0435\u0436\u043d\u044b\u0435 \u0427\u0435\u043b\u043d\u044b",
+    "salary": {
+      "string": "120\u202f000 \u2013 140\u202f000 \u0440\u0443\u0431.",
+      "from": 120000,
+      "to": 140000,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/70460473?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041e\u043f\u0435\u0440\u0430\u0442\u043e\u0440-\u043d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u0441\u0442\u0430\u043d\u043a\u043e\u0432 \u0441 \u0427\u041f\u0423",
+    "companay": "\u041e\u041e\u041e\u00a0\u0418\u041f\u041a \u0421\u0438\u0431\u0438\u0440\u044c",
+    "place": "\u041e\u043c\u0441\u043a",
+    "salary": {
+      "string": "50\u202f000 \u2013 100\u202f000 \u0440\u0443\u0431.",
+      "from": 50000,
+      "to": 100000,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/69940415?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041e\u043f\u0435\u0440\u0430\u0442\u043e\u0440 - \u043d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u0441\u0442\u0430\u043d\u043a\u043e\u0432 \u0441 \u0427\u041f\u0423",
+    "companay": "\u041e\u0410\u041e\u00a0\u0422\u0432\u0435\u0440\u044c\u0441\u0442\u0435\u043a\u043b\u043e-\u041c",
+    "place": "\u0422\u0432\u0435\u0440\u044c",
+    "salary": {
+      "string": "75\u202f000 \u2013 85\u202f000 \u0440\u0443\u0431.",
+      "from": 75000,
+      "to": 85000,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/70350166?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u0418\u043d\u0436\u0435\u043d\u0435\u0440-\u043d\u0430\u043b\u0430\u0434\u0447\u0438\u043a",
+    "companay": "\u041e\u041e\u041e\u00a0\u0422\u0435\u043f\u043b\u043e\u044d\u043d\u0435\u0440\u0433\u043e",
+    "place": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433",
+    "salary": {
+      "string": "100\u202f000 \u2013 100\u202f000 \u0440\u0443\u0431.",
+      "from": 100000,
+      "to": 100000,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/70389963?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u0412\u041f\u0410",
+    "companay": "\u041e\u041e\u041e\u00a0\u0411\u041b\u041e\u0423 \u041c\u041e\u041b\u0414\u0418\u041d\u0413 \u0421\u0415\u0420\u0412\u0418\u0421",
+    "place": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433",
+    "salary": {
+      "string": "\u043e\u0442 75\u202f000 \u0440\u0443\u0431.",
+      "from": 75000,
+      "to": null,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/69663582?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u043e\u0431\u043e\u0440\u0443\u0434\u043e\u0432\u0430\u043d\u0438\u044f",
+    "companay": "VELLE",
+    "place": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433, \u041f\u0440\u043e\u0441\u043f\u0435\u043a\u0442 \u041f\u0440\u043e\u0441\u0432\u0435\u0449\u0435\u043d\u0438\u044f",
+    "salary": {
+      "string": "65\u202f000 \u2013 80\u202f000 \u0440\u0443\u0431.",
+      "from": 65000,
+      "to": 80000,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/68280049?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041e\u043f\u0435\u0440\u0430\u0442\u043e\u0440-\u043d\u0430\u043b\u0430\u0434\u0447\u0438\u043a",
+    "companay": "\u041e\u041e\u041e\u00a0\u041d\u0418\u041b\u0421\u042d",
+    "place": "\u0427\u0435\u043b\u044f\u0431\u0438\u043d\u0441\u043a",
+    "salary": {
+      "string": "60\u202f000 \u2013 70\u202f000 \u0440\u0443\u0431.",
+      "from": 60000,
+      "to": 70000,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/70313554?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u0420\u0430\u0431\u043e\u0447\u0438\u0439/\u0423\u0447\u0435\u043d\u0438\u043a/\u041e\u043f\u0435\u0440\u0430\u0442\u043e\u0440 \u044d\u043a\u0441\u0442\u0440\u0443\u0434\u0435\u0440\u0430",
+    "companay": "\u0418\u041f\u00a0\u041d\u043e\u0432\u0438\u043a\u043e\u0432 \u0418\u0432\u0430\u043d \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u043e\u0432\u0438\u0447",
+    "place": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433",
+    "salary": {
+      "string": "70\u202f000 \u2013 90\u202f000 \u0440\u0443\u0431.",
+      "from": 70000,
+      "to": 90000,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/69840943?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u0422\u043e\u043a\u0430\u0440\u044c - \u043d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u0441\u0442\u0430\u043d\u043a\u043e\u0432 \u0441 \u0427\u041f\u0423",
+    "companay": "\u041e\u041e\u041e\u00a0\u0420\u043e\u0433\u043e\u0441",
+    "place": "\u041c\u043e\u0441\u043a\u0432\u0430",
+    "salary": {
+      "string": "\u043e\u0442 180\u202f000 \u0440\u0443\u0431.",
+      "from": 180000,
+      "to": null,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/69030994?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u0442\u0435\u0440\u043c\u043e\u0444\u043e\u0440\u043c\u043e\u0432\u043e\u0447\u043d\u043e\u0433\u043e \u043e\u0431\u043e\u0440\u0443\u0434\u043e\u0432\u0430\u043d\u0438\u044f",
+    "companay": "\u0410\u0438\u0433\u043c\u0430",
+    "place": "\u041c\u043e\u0441\u043a\u0432\u0430",
+    "salary": {
+      "string": "100\u202f000 \u2013 150\u202f000 \u0440\u0443\u0431.",
+      "from": 100000,
+      "to": 150000,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/69846810?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u043e\u0431\u043e\u0440\u0443\u0434\u043e\u0432\u0430\u043d\u0438\u044f",
+    "companay": "\u041e\u041e\u041e\u00a0\u042f\u043a\u043e\u0432\u043b\u0435\u0432\u0441\u043a\u0430\u044f \u0447\u0430\u0435\u0440\u0430\u0437\u0432\u0435\u0441\u043e\u0447\u043d\u0430\u044f \u0444\u0430\u0431\u0440\u0438\u043a\u0430",
+    "place": "\u041f\u043e\u0434\u043e\u043b\u044c\u0441\u043a (\u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c)",
+    "salary": {
+      "string": "\u043e\u0442 80\u202f000 \u0440\u0443\u0431.",
+      "from": 80000,
+      "to": null,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/69969436?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041e\u043f\u0435\u0440\u0430\u0442\u043e\u0440-\u043d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u0441\u0442\u0430\u043d\u043a\u043e\u0432 \u0441 \u0427\u041f\u0423",
+    "companay": "\u041e\u041e\u041e\u00a0\u0418\u041f\u041a \u0421\u0438\u0431\u0438\u0440\u044c",
+    "place": "\u041e\u043c\u0441\u043a",
+    "salary": {
+      "string": "50\u202f000 \u2013 100\u202f000 \u0440\u0443\u0431.",
+      "from": 50000,
+      "to": 100000,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/69940415?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041c\u0435\u0445\u0430\u043d\u0438\u043a-\u043d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u043e\u0431\u043e\u0440\u0443\u0434\u043e\u0432\u0430\u043d\u0438\u044f",
+    "companay": "\u041e\u041e\u041e\u00a0\u041e\u0437\u0435\u0440\u043e",
+    "place": "\u041d\u043e\u0432\u043e\u0441\u0438\u0431\u0438\u0440\u0441\u043a, \u043f\u043b\u043e\u0449\u0430\u0434\u044c \u041a\u0430\u0440\u043b\u0430 \u041c\u0430\u0440\u043a\u0441\u0430 \u0438 \u0435\u0449\u0435\u00a01\u00a0",
+    "salary": {
+      "string": "60\u202f000 \u2013 80\u202f000 \u0440\u0443\u0431.",
+      "from": 60000,
+      "to": 80000,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/70518789?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u0412\u041f\u0410",
+    "companay": "\u041e\u041e\u041e\u00a0\u0411\u041b\u041e\u0423 \u041c\u041e\u041b\u0414\u0418\u041d\u0413 \u0421\u0415\u0420\u0412\u0418\u0421",
+    "place": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433",
+    "salary": {
+      "string": "\u043e\u0442 75\u202f000 \u0440\u0443\u0431.",
+      "from": 75000,
+      "to": null,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/69663582?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u043e\u0431\u043e\u0440\u0443\u0434\u043e\u0432\u0430\u043d\u0438\u044f",
+    "companay": "Sintec Group",
+    "place": "\u0422\u0443\u043b\u0430",
+    "salary": {
+      "string": "60\u202f000 \u2013 80\u202f000 \u0440\u0443\u0431.",
+      "from": 60000,
+      "to": 80000,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/70574635?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a-\u0441\u043b\u0435\u0441\u0430\u0440\u044c \u043c\u0435\u0445\u0430\u043d\u043e\u0441\u0431\u043e\u0440\u043e\u0447\u043d\u044b\u0445 \u0440\u0430\u0431\u043e\u0442",
+    "companay": "\u041e\u041e\u041e\u00a0\u0427\u0438\u0441\u0442\u0430\u044f \u043b\u0438\u043d\u0438\u044f",
+    "place": "\u0414\u043e\u043b\u0433\u043e\u043f\u0440\u0443\u0434\u043d\u044b\u0439",
+    "salary": {
+      "string": "\u043e\u0442 90\u202f000 \u0440\u0443\u0431.",
+      "from": 90000,
+      "to": null,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/69524697?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u043e\u0431\u043e\u0440\u0443\u0434\u043e\u0432\u0430\u043d\u0438\u044f",
+    "companay": "Sintec Group",
+    "place": "\u041b\u0438\u043f\u0435\u0446\u043a",
+    "salary": {
+      "string": "60\u202f000 \u2013 80\u202f000 \u0440\u0443\u0431.",
+      "from": 60000,
+      "to": 80000,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/70574634?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041e\u043f\u0435\u0440\u0430\u0442\u043e\u0440 \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0439 \u043b\u0438\u043d\u0438\u0438 / \u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u043e\u0431\u043e\u0440\u0443\u0434\u043e\u0432\u0430\u043d\u0438\u044f",
+    "companay": "\u041e\u041e\u041e\u00a0\u0410\u0441\u0435\u043f\u0442\u0438\u043a\u0430, \u041c.\u041a.",
+    "place": "\u041c\u0430\u043b\u0430\u0445\u043e\u0432\u043a\u0430 (\u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c)",
+    "salary": {
+      "string": "\u043e\u0442 80\u202f000 \u0440\u0443\u0431.",
+      "from": 80000,
+      "to": null,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/69705309?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041e\u043f\u0435\u0440\u0430\u0442\u043e\u0440-\u043d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u0441\u0442\u0430\u043d\u043a\u043e\u0432 \u0441 \u0427\u041f\u0423",
+    "companay": "\u0418\u043d\u0442\u0435\u0440-\u041a\u043e\u043c\u043f\u043b\u0435\u043a\u0442-\u041d\u041d",
+    "place": "\u041d\u0438\u0436\u043d\u0438\u0439 \u041d\u043e\u0432\u0433\u043e\u0440\u043e\u0434",
+    "salary": {
+      "string": "\u043e\u0442 60\u202f000 \u0440\u0443\u0431.",
+      "from": 60000,
+      "to": null,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/69249554?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041e\u043f\u0435\u0440\u0430\u0442\u043e\u0440- \u043d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u0441\u0442\u0430\u043d\u043a\u043e\u0432 \u0441 \u0427\u041f\u0423",
+    "companay": "\u041f\u0410\u041e\u00a0\u041a\u0440\u0430\u0441\u043d\u043e\u0433\u043e\u0440\u0441\u043a\u0438\u0439 \u0437\u0430\u0432\u043e\u0434 \u0438\u043c. \u0421.\u0410. \u0417\u0432\u0435\u0440\u0435\u0432\u0430",
+    "place": "\u041c\u043e\u0441\u043a\u0432\u0430",
+    "salary": {
+      "string": "70\u202f000 \u2013 110\u202f000 \u0440\u0443\u0431.",
+      "from": 70000,
+      "to": 110000,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/54565446?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u043e\u0431\u043e\u0440\u0443\u0434\u043e\u0432\u0430\u043d\u0438\u044f",
+    "companay": "\u041e\u041e\u041e\u00a0\u0413\u0440\u0430\u043d\u0434-\u041d\u041d",
+    "place": "\u041d\u0438\u0436\u043d\u0438\u0439 \u041d\u043e\u0432\u0433\u043e\u0440\u043e\u0434",
+    "salary": {
+      "string": "\u043e\u0442 50\u202f000 \u0440\u0443\u0431.",
+      "from": 50000,
+      "to": null,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/70392377?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u043c\u043e\u043b\u043e\u0447\u043d\u043e\u0433\u043e \u043e\u0431\u043e\u0440\u0443\u0434\u043e\u0432\u0430\u043d\u0438\u044f",
+    "companay": "\u041e\u041e\u041e\u00a0\u042d\u043a\u043e\u043c\u0438\u043b\u043a",
+    "place": "\u041c\u043e\u0441\u043a\u0432\u0430",
+    "salary": {
+      "string": "\u043e\u0442 80\u202f000 \u0440\u0443\u0431.",
+      "from": 80000,
+      "to": null,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/70116835?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041e\u043f\u0435\u0440\u0430\u0442\u043e\u0440-\u043d\u0430\u043b\u0430\u0434\u0447\u0438\u043a",
+    "companay": "\u041e\u041e\u041e\u00a0\u041d\u0418\u041b\u0421\u042d",
+    "place": "\u0427\u0435\u043b\u044f\u0431\u0438\u043d\u0441\u043a",
+    "salary": {
+      "string": "60\u202f000 \u2013 70\u202f000 \u0440\u0443\u0431.",
+      "from": 60000,
+      "to": 70000,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/70313554?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u043e\u0431\u043e\u0440\u0443\u0434\u043e\u0432\u0430\u043d\u0438\u044f",
+    "companay": "\u041e\u041e\u041e\u00a0\u041e\u0440\u0438\u043e\u043d \u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0439\u0448\u043d\u043b \u0415\u0432\u0440\u043e \u0432 \u0433. \u041d\u043e\u0432\u043e\u0441\u0438\u0431\u0438\u0440\u0441\u043a",
+    "place": "\u041d\u043e\u0432\u043e\u0441\u0438\u0431\u0438\u0440\u0441\u043a",
+    "salary": {
+      "string": "\u043e\u0442 50\u202f000 \u0440\u0443\u0431.",
+      "from": 50000,
+      "to": null,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/70493106?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u043e\u0431\u043e\u0440\u0443\u0434\u043e\u0432\u0430\u043d\u0438\u044f \u043d\u0430 \u043f\u0438\u0449\u0435\u0432\u043e\u043c \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u0435",
+    "companay": "\u041e\u041e\u041e\u00a0\u041a\u0440\u0430\u0441\u043d\u043e\u0433\u043e\u0440\u0441\u043a\u0438\u0439 \u041c\u041f\u041a",
+    "place": "\u041c\u043e\u0441\u043a\u0432\u0430",
+    "salary": {
+      "string": "\u043e\u0442 70\u202f000 \u0440\u0443\u0431.",
+      "from": 70000,
+      "to": null,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/70013249?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041c\u0435\u0445\u0430\u043d\u0438\u043a-\u043d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u043e\u0431\u043e\u0440\u0443\u0434\u043e\u0432\u0430\u043d\u0438\u044f",
+    "companay": "\u0410\u041e\u00a0\u0412\u0443\u0434\u0441\u0442\u043e\u043a",
+    "place": "\u0414\u043e\u043b\u0433\u043e\u043f\u0440\u0443\u0434\u043d\u044b\u0439",
+    "salary": {
+      "string": "80\u202f000 \u2013 100\u202f000 \u0440\u0443\u0431.",
+      "from": 80000,
+      "to": 100000,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/70512205?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041c\u0435\u0445\u0430\u043d\u0438\u043a-\u043d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u043e\u0431\u043e\u0440\u0443\u0434\u043e\u0432\u0430\u043d\u0438\u044f \u043d\u0430 \u043e\u0431\u043e\u0433\u0430\u0442\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u043a\u043e\u043c\u0431\u0438\u043d\u0430\u0442",
+    "companay": "\u041b\u043e\u0433\u0438\u043d\u043e\u0432\u0430 \u041e\u043b\u044c\u0433\u0430 \u0418\u0432\u0430\u043d\u043e\u0432\u043d\u0430",
+    "place": "\u0414\u0430\u043b\u044c\u043d\u0435\u0433\u043e\u0440\u0441\u043a",
+    "salary": {
+      "string": "250\u202f000 \u2013 300\u202f000 \u0440\u0443\u0431.",
+      "from": 250000,
+      "to": 300000,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/69861066?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u0441\u0442\u0430\u043d\u043a\u043e\u0432 \u0441 \u0427\u041f\u0423",
+    "companay": "\u041e\u041e\u041e\u00a0\u0426\u0412\u041c \u0410\u0440\u043a\u043e\u043d",
+    "place": "\u041f\u0435\u043d\u0437\u0430",
+    "salary": {
+      "string": "57\u202f000 \u2013 75\u202f000 \u0440\u0443\u0431.",
+      "from": 57000,
+      "to": 75000,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/69771559?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u043e\u0431\u043e\u0440\u0443\u0434\u043e\u0432\u0430\u043d\u0438\u044f",
+    "companay": "\u041e\u041e\u041e\u00a0\u041e\u0431\u044a\u0435\u0434\u0438\u043d\u0435\u043d\u043d\u044b\u0435 \u043a\u043e\u043d\u0434\u0438\u0442\u0435\u0440\u044b",
+    "place": "\u0427\u0435\u043b\u044f\u0431\u0438\u043d\u0441\u043a",
+    "salary": {
+      "string": "\u043e\u0442 75\u202f000 \u0440\u0443\u0431.",
+      "from": 75000,
+      "to": null,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/70576619?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u0441\u0442\u0430\u043d\u043a\u043e\u0432 \u0441 \u0427\u041f\u0423",
+    "companay": "\u041c\u0435\u0442\u0438\u0437-\u043f\u0430\u0440\u0442\u043d\u0435\u0440",
+    "place": "\u041d\u0438\u0436\u043d\u0438\u0439 \u041d\u043e\u0432\u0433\u043e\u0440\u043e\u0434",
+    "salary": {
+      "string": "70\u202f000 \u2013 130\u202f000 \u0440\u0443\u0431.",
+      "from": 70000,
+      "to": 130000,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/69589124?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041e\u043f\u0435\u0440\u0430\u0442\u043e\u0440 \u043d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442 \u0441\u0442\u0430\u043d\u043a\u043e\u0432 \u0441 \u0427\u041f\u0423",
+    "companay": "\u041e\u041e\u041e\u00a0\u0421\u043e\u043b\u0438\u0442\u044d\u043a",
+    "place": "\u041c\u043e\u0441\u043a\u0432\u0430",
+    "salary": {
+      "string": "\u043e\u0442 80\u202f000 \u0440\u0443\u0431.",
+      "from": 80000,
+      "to": null,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/69546870?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041e\u043f\u0435\u0440\u0430\u0442\u043e\u0440-\u043d\u0430\u043b\u0430\u0434\u0447\u0438\u043a",
+    "companay": "\u041e\u041e\u041e\u00a0\u041d\u0418\u041b\u0421\u042d",
+    "place": "\u0427\u0435\u043b\u044f\u0431\u0438\u043d\u0441\u043a",
+    "salary": {
+      "string": "60\u202f000 \u2013 70\u202f000 \u0440\u0443\u0431.",
+      "from": 60000,
+      "to": 70000,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/70313554?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u0420\u0430\u0431\u043e\u0447\u0438\u0439/\u0423\u0447\u0435\u043d\u0438\u043a/\u041e\u043f\u0435\u0440\u0430\u0442\u043e\u0440 \u044d\u043a\u0441\u0442\u0440\u0443\u0434\u0435\u0440\u0430",
+    "companay": "\u0418\u041f\u00a0\u041d\u043e\u0432\u0438\u043a\u043e\u0432 \u0418\u0432\u0430\u043d \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u043e\u0432\u0438\u0447",
+    "place": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433",
+    "salary": {
+      "string": "70\u202f000 \u2013 90\u202f000 \u0440\u0443\u0431.",
+      "from": 70000,
+      "to": 90000,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/69840943?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u0441\u0442\u0430\u043d\u043a\u043e\u0432 \u0441 \u0427\u041f\u0423",
+    "companay": "\u041e\u041e\u041e\u00a0\u0426\u0412\u041c \u0410\u0440\u043a\u043e\u043d",
+    "place": "\u041f\u0435\u043d\u0437\u0430",
+    "salary": {
+      "string": "57\u202f000 \u2013 75\u202f000 \u0440\u0443\u0431.",
+      "from": 57000,
+      "to": 75000,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/69771559?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041c\u0430\u0441\u0442\u0435\u0440-\u043d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u0441\u0442\u0430\u043d\u043a\u043e\u0432 (\u043c\u0435\u0431\u0435\u043b\u044c\u043d\u043e\u0435 \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u043e)",
+    "companay": "\u0422\u041e\u041e\u00a0BRAMF",
+    "place": "\u0410\u043b\u043c\u0430\u0442\u044b",
+    "salary": {
+      "string": "\u043e\u0442 400\u202f000 KZT",
+      "from": 400000,
+      "to": null,
+      "valute": "KZT"
+    },
+    "link": "https://tver.hh.ru/vacancy/68731042?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u043e\u0431\u043e\u0440\u0443\u0434\u043e\u0432\u0430\u043d\u0438\u044f",
+    "companay": "\u041e\u041e\u041e\u00a0\u042f\u043a\u043e\u0432\u043b\u0435\u0432\u0441\u043a\u0430\u044f \u0447\u0430\u0435\u0440\u0430\u0437\u0432\u0435\u0441\u043e\u0447\u043d\u0430\u044f \u0444\u0430\u0431\u0440\u0438\u043a\u0430",
+    "place": "\u041f\u043e\u0434\u043e\u043b\u044c\u0441\u043a (\u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c)",
+    "salary": {
+      "string": "\u043e\u0442 80\u202f000 \u0440\u0443\u0431.",
+      "from": 80000,
+      "to": null,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/69969436?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041e\u043f\u0435\u0440\u0430\u0442\u043e\u0440-\u043d\u0430\u043b\u0430\u0434\u0447\u0438\u043a (\u0442\u0435\u0440\u043c\u043e\u043f\u043b\u0430\u0441\u0442\u0430\u0432\u0442\u043e\u043c\u0430\u0442, \u0442\u043f\u0430)",
+    "companay": "\u041e\u041e\u041e\u00a0\u0410\u043a\u0432\u0430\u0442\u0438\u043a",
+    "place": "\u041c\u043e\u0441\u043a\u0432\u0430",
+    "salary": {
+      "string": "65\u202f000 \u2013 100\u202f000 \u0440\u0443\u0431.",
+      "from": 65000,
+      "to": 100000,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/69670640?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u043e\u0431\u043e\u0440\u0443\u0434\u043e\u0432\u0430\u043d\u0438\u044f \u0432 \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u0435 \u043f\u0438\u0449\u0435\u0432\u043e\u0439 \u043f\u0440\u043e\u0434\u0443\u043a\u0446\u0438\u0438",
+    "companay": "\u041a\u0414\u0412 \u0413\u0440\u0443\u043f\u043f",
+    "place": "\u0412\u043e\u0441\u043a\u0440\u0435\u0441\u0435\u043d\u0441\u043a",
+    "salary": {
+      "string": "70\u202f000 \u2013 70\u202f000 \u0440\u0443\u0431.",
+      "from": 70000,
+      "to": 70000,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/69899414?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u043e\u0431\u043e\u0440\u0443\u0434\u043e\u0432\u0430\u043d\u0438\u044f",
+    "companay": "\u0417\u0410\u041e\u00a0\u041b\u0430\u043c\u0431\u0443\u043c\u0438\u0437",
+    "place": "\u041c\u043e\u0441\u043a\u0432\u0430",
+    "salary": null,
+    "link": "https://tver.hh.ru/vacancy/69981048?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u043e\u0431\u043e\u0440\u0443\u0434\u043e\u0432\u0430\u043d\u0438\u044f",
+    "companay": "\u041a\u0430\u0440\u044c\u0435\u0440\u0430, \u0433. \u0415\u043a\u0430\u0442\u0435\u0440\u0438\u043d\u0431\u0443\u0440\u0433",
+    "place": "\u0415\u043a\u0430\u0442\u0435\u0440\u0438\u043d\u0431\u0443\u0440\u0433",
+    "salary": {
+      "string": "\u043e\u0442 55\u202f000 \u0440\u0443\u0431.",
+      "from": 55000,
+      "to": null,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/54800758?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u0418\u043d\u0436\u0435\u043d\u0435\u0440-\u043d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u041a\u0418\u041f\u0438\u0410",
+    "companay": "\u041e\u041e\u041e\u00a0\u0410\u0417\u0418\u041c\u0423\u0422",
+    "place": "\u041c\u043e\u0441\u043a\u0432\u0430",
+    "salary": {
+      "string": "80\u202f000 \u2013 140\u202f000 \u0440\u0443\u0431.",
+      "from": 80000,
+      "to": 140000,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/69579231?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u043e\u0431\u043e\u0440\u0443\u0434\u043e\u0432\u0430\u043d\u0438\u044f / \u043c\u0435\u0445\u0430\u043d\u0438\u043a / \u0441\u043b\u0435\u0441\u0430\u0440\u044c-\u0440\u0435\u043c\u043e\u043d\u0442\u043d\u0438\u043a",
+    "companay": "\u041e\u041e\u041e\u00a0\u0421\u0442\u0435\u043a\u043b\u043e\u043f\u0430\u043a\u0435\u0442\u044b \u0438 \u0441\u0442\u0435\u043a\u043b\u043e-\u0421\u0435\u0432\u0435\u0440\u043e-\u0437\u0430\u043f\u0430\u0434",
+    "place": "\u0412\u0441\u0435\u0432\u043e\u043b\u043e\u0436\u0441\u043a",
+    "salary": {
+      "string": "\u043e\u0442 79\u202f000 \u0440\u0443\u0431.",
+      "from": 79000,
+      "to": null,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/70393364?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a-\u0441\u043b\u0435\u0441\u0430\u0440\u044c \u043c\u0435\u0445\u0430\u043d\u043e\u0441\u0431\u043e\u0440\u043e\u0447\u043d\u044b\u0445 \u0440\u0430\u0431\u043e\u0442",
+    "companay": "\u041e\u041e\u041e\u00a0\u0427\u0438\u0441\u0442\u0430\u044f \u043b\u0438\u043d\u0438\u044f",
+    "place": "\u0414\u043e\u043b\u0433\u043e\u043f\u0440\u0443\u0434\u043d\u044b\u0439",
+    "salary": {
+      "string": "\u043e\u0442 90\u202f000 \u0440\u0443\u0431.",
+      "from": 90000,
+      "to": null,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/69524697?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041c\u0435\u0445\u0430\u043d\u0438\u043a-\u043d\u0430\u043b\u0430\u0434\u0447\u0438\u043a",
+    "companay": "\u0410\u043b\u043b\u0435\u0440 \u041f\u0435\u0442\u0444\u0443\u0434",
+    "place": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433",
+    "salary": {
+      "string": "\u043e\u0442 70\u202f000 \u0440\u0443\u0431.",
+      "from": 70000,
+      "to": null,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/69560475?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u0441\u0442\u0430\u043d\u043a\u043e\u0432 \u0438 \u043c\u0430\u043d\u0438\u043f\u0443\u043b\u044f\u0442\u043e\u0440\u043e\u0432 \u0441 \u041f\u0423",
+    "companay": "\u0410\u041e\u00a0\u041d\u041f\u0424 \u042e\u0412\u042d\u041d\u041a",
+    "place": "\u0415\u043a\u0430\u0442\u0435\u0440\u0438\u043d\u0431\u0443\u0440\u0433, \u0411\u043e\u0442\u0430\u043d\u0438\u0447\u0435\u0441\u043a\u0430\u044f",
+    "salary": {
+      "string": "80\u202f000 \u2013 100\u202f000 \u0440\u0443\u0431.",
+      "from": 80000,
+      "to": 100000,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/70501777?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041c\u0435\u0445\u0430\u043d\u0438\u043a-\u043d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u043e\u0431\u043e\u0440\u0443\u0434\u043e\u0432\u0430\u043d\u0438\u044f",
+    "companay": "\u041c\u0415\u0413\u0410 \u041f\u0420\u041e\u0424\u0418",
+    "place": "\u041d\u043e\u0432\u043e\u0441\u0438\u0431\u0438\u0440\u0441\u043a",
+    "salary": {
+      "string": "\u043e\u0442 60\u202f000 \u0440\u0443\u0431.",
+      "from": 60000,
+      "to": null,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/70350557?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041e\u043f\u0435\u0440\u0430\u0442\u043e\u0440-\u043d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u0441\u0442\u0430\u043d\u043a\u043e\u0432 \u0441 \u0427\u041f\u0423",
+    "companay": "\u041e\u041e\u041e\u00a0\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u0435\u043d\u043d\u0430\u044f \u041a\u043e\u043c\u043f\u0430\u043d\u0438\u044f \u0421\u0432\u0430\u0440\u043e\u0433\u044a",
+    "place": "\u0418\u0436\u0435\u0432\u0441\u043a",
+    "salary": {
+      "string": "\u0434\u043e 102\u202f440 \u0440\u0443\u0431.",
+      "from": null,
+      "to": 102440,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/70226209?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u0418\u043d\u0436\u0435\u043d\u0435\u0440-\u043d\u0430\u043b\u0430\u0434\u0447\u0438\u043a (\u043a\u043e\u0442\u0435\u043b\u044c\u043d\u044b\u0435 \u0434\u043e 10\u043c\u0412\u0442)",
+    "companay": "\u0413\u0440\u0443\u043f\u043f\u0430 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0439 \u041e\u043b\u0438\u043c\u043f \u042d\u043d\u0435\u0440\u0433\u0435\u0442\u0438\u043a\u0430",
+    "place": "\u041c\u043e\u0441\u043a\u0432\u0430",
+    "salary": {
+      "string": "110\u202f000 \u2013 141\u202f000 \u0440\u0443\u0431.",
+      "from": 110000,
+      "to": 141000,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/69729432?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0445 \u043b\u0438\u043d\u0438\u0439 \u043f\u043e \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u0443 \u0438\u0437\u0434\u0435\u043b\u0438\u0439 \u0438\u0437 \u043f\u043b\u0430\u0441\u0442\u043c\u0430\u0441\u0441",
+    "companay": "\u0410\u041b\u041f\u041b\u0410",
+    "place": "\u0427\u0435\u0445\u043e\u0432",
+    "salary": {
+      "string": "55\u202f000 \u2013 60\u202f000 \u0440\u0443\u0431.",
+      "from": 55000,
+      "to": 60000,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/70368745?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041e\u043f\u0435\u0440\u0430\u0442\u043e\u0440-\u043d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u0441\u0442\u0430\u043d\u043a\u043e\u0432 \u0441 \u0427\u041f\u0423",
+    "companay": "\u041e\u041e\u041e\u00a0\u041d\u041f\u0426 \u041b\u041a\u0422",
+    "place": "\u0418\u0441\u0442\u0440\u0430",
+    "salary": {
+      "string": "70\u202f000 \u2013 150\u202f000 \u0440\u0443\u0431.",
+      "from": 70000,
+      "to": 150000,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/68591724?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u043e\u0431\u043e\u0440\u0443\u0434\u043e\u0432\u0430\u043d\u0438\u044f \u043d\u0430 \u043f\u0438\u0449\u0435\u0432\u043e\u043c \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u0435",
+    "companay": "\u041e\u041e\u041e\u00a0\u041a\u0440\u0430\u0441\u043d\u043e\u0433\u043e\u0440\u0441\u043a\u0438\u0439 \u041c\u041f\u041a",
+    "place": "\u041c\u043e\u0441\u043a\u0432\u0430",
+    "salary": {
+      "string": "\u043e\u0442 70\u202f000 \u0440\u0443\u0431.",
+      "from": 70000,
+      "to": null,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/70013249?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u0418\u043d\u0436\u0435\u043d\u0435\u0440-\u043d\u0430\u043b\u0430\u0434\u0447\u0438\u043a (\u0425\u043e\u043b\u043e\u0434\u0438\u043b\u044c\u043d\u043e\u0435 \u043e\u0431\u043e\u0440\u0443\u0434\u043e\u0432\u0430\u043d\u0438\u0435)",
+    "companay": "\u041e\u041e\u041e\u00a0\u0410\u043b\u044c\u043f\u044b",
+    "place": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433",
+    "salary": {
+      "string": "\u043e\u0442 250\u202f000 \u0440\u0443\u0431.",
+      "from": 250000,
+      "to": null,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/69032441?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041e\u043f\u0435\u0440\u0430\u0442\u043e\u0440-\u043d\u0430\u043b\u0430\u0434\u0447\u0438\u043a (\u0442\u0435\u0440\u043c\u043e\u043f\u043b\u0430\u0441\u0442\u0430\u0432\u0442\u043e\u043c\u0430\u0442, \u0442\u043f\u0430)",
+    "companay": "\u041e\u041e\u041e\u00a0\u0410\u043a\u0432\u0430\u0442\u0438\u043a",
+    "place": "\u041c\u043e\u0441\u043a\u0432\u0430",
+    "salary": {
+      "string": "65\u202f000 \u2013 100\u202f000 \u0440\u0443\u0431.",
+      "from": 65000,
+      "to": 100000,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/69670640?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u043e\u0431\u043e\u0440\u0443\u0434\u043e\u0432\u0430\u043d\u0438\u044f",
+    "companay": "\u041e\u041e\u041e\u00a0\u0412\u041c \u041f\u0440\u043e",
+    "place": "\u041a\u043e\u0442\u0435\u043b\u044c\u043d\u0438\u043a\u0438",
+    "salary": {
+      "string": "\u043e\u0442 60\u202f000 \u0440\u0443\u0431.",
+      "from": 60000,
+      "to": null,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/70097611?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u043e\u0431\u043e\u0440\u0443\u0434\u043e\u0432\u0430\u043d\u0438\u044f",
+    "companay": "\u041e\u041e\u041e\u00a0\u042f\u043a\u043e\u0432\u043b\u0435\u0432\u0441\u043a\u0430\u044f \u0447\u0430\u0435\u0440\u0430\u0437\u0432\u0435\u0441\u043e\u0447\u043d\u0430\u044f \u0444\u0430\u0431\u0440\u0438\u043a\u0430",
+    "place": "\u041f\u043e\u0434\u043e\u043b\u044c\u0441\u043a (\u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c)",
+    "salary": {
+      "string": "\u043e\u0442 80\u202f000 \u0440\u0443\u0431.",
+      "from": 80000,
+      "to": null,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/69969436?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041e\u043f\u0435\u0440\u0430\u0442\u043e\u0440-\u043d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u0441\u0442\u0430\u043d\u043a\u043e\u0432 \u0441 \u0427\u041f\u0423",
+    "companay": "\u041e\u041e\u041e\u00a0\u0422\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u043a\u0430",
+    "place": "\u0427\u0435\u043b\u044f\u0431\u0438\u043d\u0441\u043a",
+    "salary": {
+      "string": "\u043e\u0442 90\u202f000 \u0440\u0443\u0431.",
+      "from": 90000,
+      "to": null,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/69214409?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u043e\u0431\u043e\u0440\u0443\u0434\u043e\u0432\u0430\u043d\u0438\u044f \u043d\u0430 \u043f\u0438\u0449\u0435\u0432\u043e\u0435 \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u043e",
+    "companay": "\u041e\u041e\u041e\u00a0\u041c\u041e\u0420\u0410\u0412\u0410",
+    "place": "\u0421\u0430\u043c\u0430\u0440\u0430",
+    "salary": {
+      "string": "50\u202f000 \u2013 70\u202f000 \u0440\u0443\u0431.",
+      "from": 50000,
+      "to": 70000,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/70454993?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u043e\u0431\u043e\u0440\u0443\u0434\u043e\u0432\u0430\u043d\u0438\u044f",
+    "companay": "\u0417\u0410\u041e\u00a0\u041b\u0430\u043c\u0431\u0443\u043c\u0438\u0437",
+    "place": "\u041c\u043e\u0441\u043a\u0432\u0430",
+    "salary": null,
+    "link": "https://tver.hh.ru/vacancy/69981048?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a/\u043e\u043f\u0435\u0440\u0430\u0442\u043e\u0440 \u044d\u043a\u0441\u0442\u0440\u0443\u0434\u0435\u0440\u0430",
+    "companay": "Jobers",
+    "place": "\u0425\u0438\u043c\u043a\u0438",
+    "salary": {
+      "string": "80\u202f000 \u2013 100\u202f000 \u0440\u0443\u0431.",
+      "from": 80000,
+      "to": 100000,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/69581975?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041c\u0430\u0441\u0442\u0435\u0440-\u043d\u0430\u043b\u0430\u0434\u0447\u0438\u043a",
+    "companay": "\u041e\u041e\u041e\u00a0\u042d\u041b\u0418\u0414\u0410",
+    "place": "\u041e\u0434\u0438\u043d\u0446\u043e\u0432\u043e",
+    "salary": {
+      "string": "60\u202f000 \u2013 100\u202f000 \u0440\u0443\u0431.",
+      "from": 60000,
+      "to": 100000,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/69905760?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u044c\u043d\u043e-\u0438\u0437\u043c\u0435\u0440\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0445 \u043f\u0440\u0438\u0431\u043e\u0440\u043e\u0432 \u0438 \u0430\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u043a\u0438",
+    "companay": "\u0423\u041f\u00a0\u0411\u0435\u043b\u0441\u0430\u043d\u0442\u0435\u0445\u044d\u043d\u0435\u0440\u0433\u043e",
+    "place": "\u041c\u0438\u043d\u0441\u043a",
+    "salary": {
+      "string": "\u043e\u0442 1\u202f800 \u0431\u0435\u043b.\u00a0\u0440\u0443\u0431.",
+      "from": 1800,
+      "to": null,
+      "valute": "\u0431\u0435\u043b.\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/70114119?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u042d\u043b\u0435\u043a\u0442\u0440\u043e\u043c\u0435\u0445\u0430\u043d\u0438\u043a-\u043d\u0430\u043b\u0430\u0434\u0447\u0438\u043a",
+    "companay": "\u041e\u041e\u041e\u00a0\u0425\u043b\u0435\u0431\u043d\u044b\u0439 \u0434\u043e\u043c",
+    "place": "\u041c\u043e\u0441\u043a\u0432\u0430, \u0410\u043b\u0435\u043a\u0441\u0435\u0435\u0432\u0441\u043a\u0430\u044f",
+    "salary": {
+      "string": "83\u202f000 \u2013 83\u202f000 \u0440\u0443\u0431.",
+      "from": 83000,
+      "to": 83000,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/70512404?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u043e\u0431\u043e\u0440\u0443\u0434\u043e\u0432\u0430\u043d\u0438\u044f",
+    "companay": "Sintec Group",
+    "place": "\u041e\u0431\u043d\u0438\u043d\u0441\u043a",
+    "salary": {
+      "string": "\u043e\u0442 70\u202f000 \u0440\u0443\u0431.",
+      "from": 70000,
+      "to": null,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/70532888?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041e\u043f\u0435\u0440\u0430\u0442\u043e\u0440-\u043d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u043b\u0438\u043d\u0438\u0438 \u043f\u043e \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u0443 \u043f\u043b\u0430\u0441\u0442\u0438\u043a\u043e\u0432\u043e\u0433\u043e \u0431\u0430\u0433\u0435\u0442\u0430/\u043c\u0430\u0448\u0438\u043d\u0438\u0441\u0442 \u044d\u043a\u0441\u0442\u0440\u0443\u0434\u0435\u0440\u0430",
+    "companay": "\u041e\u041e\u041e\u00a0\u0410\u043b\u044c\u0444\u0430 \u0410\u0440\u0442",
+    "place": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433",
+    "salary": {
+      "string": "50\u202f000 \u2013 100\u202f000 \u0440\u0443\u0431.",
+      "from": 50000,
+      "to": 100000,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/69547437?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041c\u0435\u0445\u0430\u043d\u0438\u043a-\u043d\u0430\u043b\u0430\u0434\u0447\u0438\u043a",
+    "companay": "\u0410\u043b\u043b\u0435\u0440 \u041f\u0435\u0442\u0444\u0443\u0434",
+    "place": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433",
+    "salary": {
+      "string": "\u043e\u0442 70\u202f000 \u0440\u0443\u0431.",
+      "from": 70000,
+      "to": null,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/69560475?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u043e\u0431\u043e\u0440\u0443\u0434\u043e\u0432\u0430\u043d\u0438\u044f",
+    "companay": "\u0410\u041e\u00a0\u041e\u041a\u0411 \u041c\u042d\u041b",
+    "place": "\u041a\u0430\u043b\u0443\u0433\u0430",
+    "salary": {
+      "string": "\u043e\u0442 50\u202f000 \u0440\u0443\u0431.",
+      "from": 50000,
+      "to": null,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/70575970?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u043e\u0431\u043e\u0440\u0443\u0434\u043e\u0432\u0430\u043d\u0438\u044f",
+    "companay": "\u041e\u041e\u041e\u00a0\u0413\u0440\u0430\u043d\u0434-\u041d\u041d",
+    "place": "\u041d\u0438\u0436\u043d\u0438\u0439 \u041d\u043e\u0432\u0433\u043e\u0440\u043e\u0434",
+    "salary": {
+      "string": "\u043e\u0442 50\u202f000 \u0440\u0443\u0431.",
+      "from": 50000,
+      "to": null,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/70392377?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041e\u043f\u0435\u0440\u0430\u0442\u043e\u0440-\u043d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u0441\u0442\u0430\u043d\u043a\u043e\u0432 \u0441 \u0447\u043f\u0443",
+    "companay": "\u041e\u041e\u041e\u00a0\u042d\u043b\u043a\u043e\u043c",
+    "place": "\u0427\u0435\u0431\u043e\u043a\u0441\u0430\u0440\u044b",
+    "salary": {
+      "string": "\u043e\u0442 70\u202f000 \u0440\u0443\u0431.",
+      "from": 70000,
+      "to": null,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/70179906?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u0441\u0442\u0430\u043d\u043a\u043e\u0432 \u0441 \u0427\u041f\u0423",
+    "companay": "\u041a\u041f\u0421\u0420 \u0413\u0440\u0443\u043f\u043f",
+    "place": "\u041c\u0438\u043d\u0441\u043a",
+    "salary": {
+      "string": "\u043e\u0442 2\u202f500 \u0431\u0435\u043b.\u00a0\u0440\u0443\u0431.",
+      "from": 2500,
+      "to": null,
+      "valute": "\u0431\u0435\u043b.\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/70101259?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u043e\u0431\u043e\u0440\u0443\u0434\u043e\u0432\u0430\u043d\u0438\u044f \u0432 \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u0435 \u043f\u0438\u0449\u0435\u0432\u043e\u0439 \u043f\u0440\u043e\u0434\u0443\u043a\u0446\u0438\u0438",
+    "companay": "\u041a\u0414\u0412 \u0413\u0440\u0443\u043f\u043f",
+    "place": "\u0412\u043e\u0441\u043a\u0440\u0435\u0441\u0435\u043d\u0441\u043a",
+    "salary": {
+      "string": "70\u202f000 \u2013 70\u202f000 \u0440\u0443\u0431.",
+      "from": 70000,
+      "to": 70000,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/69899414?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041e\u043f\u0435\u0440\u0430\u0442\u043e\u0440-\u043d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u0441\u0442\u0430\u043d\u043a\u043e\u0432 \u0441 \u0427\u041f\u0423/\u042d\u043b\u0435\u043a\u0442\u0440\u043e\u044d\u0440\u043e\u0437\u0438\u043e\u043d\u0438\u0441\u0442",
+    "companay": "\u041e\u041e\u041e\u00a0\u0412\u041e\u0421\u0422\u041e\u041a\u041c\u0410\u0428 \u0418\u041d\u0416\u0418\u041d\u0418\u0420\u0418\u041d\u0413",
+    "place": "\u041c\u043e\u0441\u043a\u0432\u0430",
+    "salary": {
+      "string": "\u043e\u0442 80\u202f000 \u0440\u0443\u0431.",
+      "from": 80000,
+      "to": null,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/69993974?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u0441\u0442\u0430\u043d\u043a\u043e\u0432 (\u044e\u0432\u0435\u043b\u0438\u0440\u043d\u043e\u0435 \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u043e)",
+    "companay": "\u042e\u0432\u0435\u043b\u0438\u0440\u043d\u044b\u0439 \u0417\u0430\u0432\u043e\u0434 TALANT",
+    "place": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433, \u041b\u0435\u0441\u043d\u0430\u044f",
+    "salary": {
+      "string": "\u043e\u0442 110\u202f000 \u0440\u0443\u0431.",
+      "from": 110000,
+      "to": null,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/70159808?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041c\u0435\u0445\u0430\u043d\u0438\u043a-\u043d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u043e\u0431\u043e\u0440\u0443\u0434\u043e\u0432\u0430\u043d\u0438\u044f",
+    "companay": "\u041e\u041e\u041e\u00a0\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433\u0441\u043a\u0430\u044f \u041a\u043e\u043b\u043b\u0435\u043a\u0446\u0438\u044f",
+    "place": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433",
+    "salary": {
+      "string": "\u043e\u0442 60\u202f000 \u0440\u0443\u0431.",
+      "from": 60000,
+      "to": null,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/70145563?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442-\u043d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u0444\u0440\u0435\u0437\u0435\u0440\u043d\u043e\u0433\u043e \u0441\u0442\u0430\u043d\u043a\u0430 \u0427\u041f\u0423",
+    "companay": "\u041e\u041e\u041e\u00a0\u041c\u043e\u043b\u0434\u0441\u0435\u0440\u0432\u0438\u0441",
+    "place": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433",
+    "salary": {
+      "string": "\u043e\u0442 100\u202f000 \u0440\u0443\u0431.",
+      "from": 100000,
+      "to": null,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/69872232?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u0418\u043d\u0436\u0435\u043d\u0435\u0440-\u043d\u0430\u043b\u0430\u0434\u0447\u0438\u043a",
+    "companay": "\u041d\u041f\u041a \u041c\u043e\u0440\u0441\u0432\u044f\u0437\u044c\u0430\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u043a\u0430",
+    "place": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433, \u041b\u043e\u043c\u043e\u043d\u043e\u0441\u043e\u0432\u0441\u043a\u0430\u044f",
+    "salary": {
+      "string": "\u043e\u0442 75\u202f000 \u0440\u0443\u0431.",
+      "from": 75000,
+      "to": null,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/70211818?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041e\u043f\u0435\u0440\u0430\u0442\u043e\u0440-\u043d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u0441\u0442\u0430\u043d\u043a\u0430 \u0441 \u0427\u041f\u0423",
+    "companay": "\u0410\u041e\u00a0\u0412\u0430\u043a\u0443\u0443\u043c\u043c\u0430\u0448",
+    "place": "\u041a\u0430\u0437\u0430\u043d\u044c, \u0421\u0443\u043a\u043e\u043d\u043d\u0430\u044f \u0441\u043b\u043e\u0431\u043e\u0434\u0430",
+    "salary": {
+      "string": "70\u202f000 \u2013 100\u202f000 \u0440\u0443\u0431.",
+      "from": 70000,
+      "to": 100000,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/70578173?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041e\u043f\u0435\u0440\u0430\u0442\u043e\u0440-\u043d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u0441\u0442\u0430\u043d\u043a\u043e\u0432 \u0441 \u0427\u041f\u0423",
+    "companay": "\u0418\u043d\u0442\u0435\u0440-\u041a\u043e\u043c\u043f\u043b\u0435\u043a\u0442-\u041d\u041d",
+    "place": "\u041d\u0438\u0436\u043d\u0438\u0439 \u041d\u043e\u0432\u0433\u043e\u0440\u043e\u0434",
+    "salary": {
+      "string": "\u043e\u0442 60\u202f000 \u0440\u0443\u0431.",
+      "from": 60000,
+      "to": null,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/69249554?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041e\u043f\u0435\u0440\u0430\u0442\u043e\u0440 \u043d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u0442\u0435\u0440\u043c\u043e\u0444\u043e\u0440\u043c\u043e\u0432\u0449\u0438\u043a (\u043f\u043d\u0435\u0432\u043c\u043e\u0444\u043e\u0440\u043c\u043e\u0432\u043a\u0430, \u0442\u0435\u0440\u043c\u043e\u0444\u043e\u0440\u043c\u043e\u0432\u043a\u0430)",
+    "companay": "\u041e\u041e\u041e\u00a0\u0411\u043b\u0438\u0441\u0442\u0435\u0440-\u0423\u043f\u0430\u043a\u043e\u0432\u043a\u0430",
+    "place": "\u041c\u043e\u0441\u043a\u0432\u0430",
+    "salary": {
+      "string": "80\u202f000 \u2013 120\u202f000 \u0440\u0443\u0431.",
+      "from": 80000,
+      "to": 120000,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/70421834?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u043e\u0431\u043e\u0440\u0443\u0434\u043e\u0432\u0430\u043d\u0438\u044f Tetra Pak.",
+    "companay": "\u0418\u041f\u00a0\u041c\u043e\u043b\u0434\u0430\u0433\u0430\u0437\u0438\u043d\u043e\u0432\u0430 \u041d\u0430\u0437\u0438\u0440\u0430",
+    "place": "\u0428\u044b\u043c\u043a\u0435\u043d\u0442",
+    "salary": {
+      "string": "300\u202f000 \u2013 500\u202f000 KZT",
+      "from": 300000,
+      "to": 500000,
+      "valute": "KZT"
+    },
+    "link": "https://tver.hh.ru/vacancy/70526937?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u0418\u043d\u0436\u0435\u043d\u0435\u0440-\u043d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u041a\u0418\u041f\u0438\u0410",
+    "companay": "\u041e\u041e\u041e\u00a0\u0421\u0438\u0433\u043c\u0430",
+    "place": "\u0421\u0430\u043c\u0430\u0440\u0430",
+    "salary": {
+      "string": "\u0434\u043e 80\u202f000 \u0440\u0443\u0431.",
+      "from": null,
+      "to": 80000,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/69700778?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u043e\u0431\u043e\u0440\u0443\u0434\u043e\u0432\u0430\u043d\u0438\u044f \u043d\u0430 \u043f\u0438\u0449\u0435\u0432\u043e\u043c \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u0435",
+    "companay": "\u041e\u041e\u041e\u00a0\u041a\u0440\u0430\u0441\u043d\u043e\u0433\u043e\u0440\u0441\u043a\u0438\u0439 \u041c\u041f\u041a",
+    "place": "\u041c\u043e\u0441\u043a\u0432\u0430",
+    "salary": {
+      "string": "\u043e\u0442 70\u202f000 \u0440\u0443\u0431.",
+      "from": 70000,
+      "to": null,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/70013249?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041c\u0435\u0445\u0430\u043d\u0438\u043a-\u043d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u043e\u0431\u043e\u0440\u0443\u0434\u043e\u0432\u0430\u043d\u0438\u044f",
+    "companay": "\u0410\u041e\u00a0\u0412\u0443\u0434\u0441\u0442\u043e\u043a",
+    "place": "\u0414\u043e\u043b\u0433\u043e\u043f\u0440\u0443\u0434\u043d\u044b\u0439",
+    "salary": {
+      "string": "80\u202f000 \u2013 100\u202f000 \u0440\u0443\u0431.",
+      "from": 80000,
+      "to": 100000,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/70512205?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u043e\u0431\u043e\u0440\u0443\u0434\u043e\u0432\u0430\u043d\u0438\u044f",
+    "companay": "Sintec Group",
+    "place": "\u041e\u0431\u043d\u0438\u043d\u0441\u043a",
+    "salary": {
+      "string": "\u043e\u0442 70\u202f000 \u0440\u0443\u0431.",
+      "from": 70000,
+      "to": null,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/70532888?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u0441\u0442\u0430\u043d\u043a\u043e\u0432 \u0441 \u0427\u041f\u0423",
+    "companay": "\u041c\u0435\u0442\u0438\u0437-\u043f\u0430\u0440\u0442\u043d\u0435\u0440",
+    "place": "\u041d\u0438\u0436\u043d\u0438\u0439 \u041d\u043e\u0432\u0433\u043e\u0440\u043e\u0434",
+    "salary": {
+      "string": "70\u202f000 \u2013 130\u202f000 \u0440\u0443\u0431.",
+      "from": 70000,
+      "to": 130000,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/69589124?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u0441\u0442\u0430\u043d\u043a\u043e\u0432 \u0441 \u0427\u041f\u0423",
+    "companay": "\u041a\u041f\u0421\u0420 \u0413\u0440\u0443\u043f\u043f",
+    "place": "\u041c\u0438\u043d\u0441\u043a",
+    "salary": {
+      "string": "\u043e\u0442 2\u202f500 \u0431\u0435\u043b.\u00a0\u0440\u0443\u0431.",
+      "from": 2500,
+      "to": null,
+      "valute": "\u0431\u0435\u043b.\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/70101259?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041c\u0435\u0445\u0430\u043d\u0438\u043a-\u043d\u0430\u043b\u0430\u0434\u0447\u0438\u043a",
+    "companay": "\u0424\u0421 \u041f\u0440\u0438\u043d\u0442",
+    "place": "\u0427\u0435\u0445\u043e\u0432",
+    "salary": {
+      "string": "\u043e\u0442 85\u202f000 \u0440\u0443\u0431.",
+      "from": 85000,
+      "to": null,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/70602380?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u0430\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u043b\u0438\u043d\u0438\u0439 \u0438 \u0430\u0433\u0440\u0435\u0433\u0430\u0442\u043d\u044b\u0445 \u0441\u0442\u0430\u043d\u043a\u043e\u0432",
+    "companay": "\u041f\u0410\u041e \u00ab\u041a\u0410\u041c\u0410\u0417\u00bb",
+    "place": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433",
+    "salary": {
+      "string": "\u043e\u0442 100\u202f000 \u0440\u0443\u0431.",
+      "from": 100000,
+      "to": null,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/70332507?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u0445\u043e\u043b\u043e\u0434\u043d\u043e\u0448\u0442\u0430\u043c\u043f\u043e\u0432\u043e\u0447\u043d\u043e\u0433\u043e \u043e\u0431\u043e\u0440\u0443\u0434\u043e\u0432\u0430\u043d\u0438\u044f",
+    "companay": "\u041e\u0410\u041e\u00a0\u041d\u041f\u041f \u041a\u0440\u0430\u0441\u043d\u043e\u0437\u043d\u0430\u043c\u0435\u043d\u0435\u0446",
+    "place": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433",
+    "salary": {
+      "string": "\u043e\u0442 70\u202f000 \u0440\u0443\u0431.",
+      "from": 70000,
+      "to": null,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/68920337?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u0418\u043d\u0436\u0435\u043d\u0435\u0440-\u043d\u0430\u043b\u0430\u0434\u0447\u0438\u043a",
+    "companay": "\u041e\u041e\u041e\u00a0\u041e\u0420\u0418\u041c\u0418",
+    "place": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433, \u041b\u043e\u043c\u043e\u043d\u043e\u0441\u043e\u0432\u0441\u043a\u0430\u044f",
+    "salary": {
+      "string": "75\u202f000 \u2013 80\u202f000 \u0440\u0443\u0431.",
+      "from": 75000,
+      "to": 80000,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/67089326?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u0441\u0442\u0430\u043d\u043a\u043e\u0432 \u0441 \u0427\u041f\u0423",
+    "companay": "\u041e\u041e\u041e\u00a0\u041f\u0420\u041e\u041c\u0422\u0415\u0425\u0418\u041d\u041d\u041e\u0412\u0410\u0426\u0418\u0418",
+    "place": "\u041c\u0438\u043d\u0441\u043a",
+    "salary": {
+      "string": "\u043e\u0442 3\u202f000 \u0431\u0435\u043b.\u00a0\u0440\u0443\u0431.",
+      "from": 3000,
+      "to": null,
+      "valute": "\u0431\u0435\u043b.\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/69825543?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041c\u0435\u0445\u0430\u043d\u0438\u043a-\u043d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u043e\u0431\u043e\u0440\u0443\u0434\u043e\u0432\u0430\u043d\u0438\u044f",
+    "companay": "\u041e\u041e\u041e\u00a0\u0422\u0435\u0440\u0440\u0430-\u0422\u043e\u043a",
+    "place": "\u0415\u043a\u0430\u0442\u0435\u0440\u0438\u043d\u0431\u0443\u0440\u0433",
+    "salary": {
+      "string": "\u043e\u0442 60\u202f000 \u0440\u0443\u0431.",
+      "from": 60000,
+      "to": null,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/69795581?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041e\u043f\u0435\u0440\u0430\u0442\u043e\u0440 - \u043d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u0441\u0442\u0430\u043d\u043a\u043e\u0432 \u0441 \u0427\u041f\u0423",
+    "companay": "Zias",
+    "place": "\u0411\u0430\u0440\u043d\u0430\u0443\u043b",
+    "salary": {
+      "string": "72\u202f000 \u2013 72\u202f000 \u0440\u0443\u0431.",
+      "from": 72000,
+      "to": 72000,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/70323208?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u0444\u0440\u0435\u0437\u0435\u0440\u043d\u043e\u0433\u043e \u0441\u0442\u0430\u043d\u043a\u0430 \u0441 \u0427\u041f\u0423",
+    "companay": "\u041e\u041e\u041e\u00a0\u042e-\u041f\u0420\u0410\u0419\u041c",
+    "place": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433, \u041b\u0430\u0434\u043e\u0436\u0441\u043a\u0430\u044f",
+    "salary": {
+      "string": "80\u202f000 \u2013 110\u202f000 \u0440\u0443\u0431.",
+      "from": 80000,
+      "to": 110000,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/70576730?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041c\u0435\u0445\u0430\u043d\u0438\u043a-\u043d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u043e\u0431\u043e\u0440\u0443\u0434\u043e\u0432\u0430\u043d\u0438\u044f",
+    "companay": "\u0424\u0421 \u041f\u0440\u0438\u043d\u0442",
+    "place": "\u0427\u0435\u0445\u043e\u0432",
+    "salary": {
+      "string": "70\u202f000 \u2013 100\u202f000 \u0440\u0443\u0431.",
+      "from": 70000,
+      "to": 100000,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/67470220?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u043e\u0433\u043e \u043e\u0431\u043e\u0440\u0443\u0434\u043e\u0432\u0430\u043d\u0438\u044f \u043b\u0438\u0444\u0442\u043e\u0432",
+    "companay": "\u041e\u041e\u041e\u00a0\u0428\u0442\u0430\u0439\u043c\u0431\u0435\u0440\u0433 \u041b\u0438\u0444\u0442",
+    "place": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433",
+    "salary": {
+      "string": "75\u202f000 \u2013 100\u202f000 \u0440\u0443\u0431.",
+      "from": 75000,
+      "to": 100000,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/70573919?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u043e\u0431\u043e\u0440\u0443\u0434\u043e\u0432\u0430\u043d\u0438\u044f",
+    "companay": "\u041e\u041e\u041e\u00a0\u041f\u0438\u0432\u043e\u0432\u0430\u0440\u0435\u043d\u043d\u0430\u044f \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u044f \u041d\u0410\u0428\u0415 \u041f\u0418\u0412\u041e",
+    "place": "\u0419\u043e\u0448\u043a\u0430\u0440-\u041e\u043b\u0430",
+    "salary": {
+      "string": "\u043e\u0442 40\u202f000 \u0440\u0443\u0431.",
+      "from": 40000,
+      "to": null,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/70604271?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041c\u0435\u0445\u0430\u043d\u0438\u043a-\u043d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u043e\u0431\u043e\u0440\u0443\u0434\u043e\u0432\u0430\u043d\u0438\u044f",
+    "companay": "\u041e\u041e\u041e\u00a0\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433\u0441\u043a\u0430\u044f \u041a\u043e\u043b\u043b\u0435\u043a\u0446\u0438\u044f",
+    "place": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433",
+    "salary": {
+      "string": "\u043e\u0442 60\u202f000 \u0440\u0443\u0431.",
+      "from": 60000,
+      "to": null,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/70145563?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u0418\u043d\u0436\u0435\u043d\u0435\u0440-\u043d\u0430\u043b\u0430\u0434\u0447\u0438\u043a",
+    "companay": "\u041d\u041f\u041a \u041c\u043e\u0440\u0441\u0432\u044f\u0437\u044c\u0430\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u043a\u0430",
+    "place": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433, \u041b\u043e\u043c\u043e\u043d\u043e\u0441\u043e\u0432\u0441\u043a\u0430\u044f",
+    "salary": {
+      "string": "\u043e\u0442 75\u202f000 \u0440\u0443\u0431.",
+      "from": 75000,
+      "to": null,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/70211818?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041e\u043f\u0435\u0440\u0430\u0442\u043e\u0440 \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0439 \u043b\u0438\u043d\u0438\u0438",
+    "companay": "Essity",
+    "place": "\u041d\u043e\u0432\u043e\u043c\u043e\u0441\u043a\u043e\u0432\u0441\u043a (\u0422\u0443\u043b\u044c\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c)",
+    "salary": {
+      "string": "43\u202f000 \u2013 45\u202f000 \u0440\u0443\u0431.",
+      "from": 43000,
+      "to": 45000,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/70619249?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u0441\u0442\u0430\u043d\u043a\u043e\u0432 \u0441 \u0427\u041f\u0423 (\u0442\u043e\u043a\u0430\u0440\u043d\u044b\u0435 \u0440\u0430\u0431\u043e\u0442\u044b)",
+    "companay": "\u041e\u0410\u041e\u00a0\u042d\u043b\u0435\u043a\u0442\u0440\u043e\u043c\u0435\u0445\u0430\u043d\u0438\u043a\u0430",
+    "place": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433",
+    "salary": {
+      "string": "65\u202f000 \u2013 90\u202f000 \u0440\u0443\u0431.",
+      "from": 65000,
+      "to": 90000,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/70398177?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041e\u043f\u0435\u0440\u0430\u0442\u043e\u0440 \u043d\u0430 \u043f\u0430\u043a\u0435\u0442\u043e\u0434\u0435\u043b\u0430\u0442\u0435\u043b\u044c\u043d\u0443\u044e \u043c\u0430\u0448\u0438\u043d\u0443. \u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a",
+    "companay": "\u041e\u041e\u041e\u00a0\u0412\u0435\u0431\u043f\u0430\u043a",
+    "place": "\u0429\u0435\u043b\u043a\u043e\u0432\u043e",
+    "salary": {
+      "string": "60\u202f000 \u2013 65\u202f000 \u0440\u0443\u0431.",
+      "from": 60000,
+      "to": 65000,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/70331150?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041c\u0435\u0445\u0430\u043d\u0438\u043a-\u043d\u0430\u043b\u0430\u0434\u0447\u0438\u043a",
+    "companay": "\u0424\u0421 \u041f\u0440\u0438\u043d\u0442",
+    "place": "\u0427\u0435\u0445\u043e\u0432",
+    "salary": {
+      "string": "\u043e\u0442 85\u202f000 \u0440\u0443\u0431.",
+      "from": 85000,
+      "to": null,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/70602380?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u0418\u043d\u0436\u0435\u043d\u0435\u0440-\u043c\u0435\u0445\u0430\u043d\u0438\u043a/\u043c\u0435\u0445\u0430\u043d\u0438\u043a-\u043d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u043e\u0431\u043e\u0440\u0443\u0434\u043e\u0432\u0430\u043d\u0438\u044f",
+    "companay": "\u041e\u041e\u041e\u00a0\u041f\u041a \u0421\u0415\u0412\u0415\u0420\u041e-\u0417\u0410\u041f\u0410\u0414",
+    "place": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433, \u0412\u043e\u043b\u043a\u043e\u0432\u0441\u043a\u0430\u044f \u0438 \u0435\u0449\u0435\u00a01\u00a0",
+    "salary": {
+      "string": "60\u202f000 \u2013 60\u202f000 \u0440\u0443\u0431.",
+      "from": 60000,
+      "to": 60000,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/69652993?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u0441\u0442\u0430\u043d\u043a\u043e\u0432 \u0441 \u0427\u041f\u0423 (\u0444\u0440\u0435\u0437\u0435\u0440\u043d\u0430\u044f \u0433\u0440\u0443\u043f\u043f\u0430)",
+    "companay": "\u041e\u041e\u041e\u00a0\u0427\u0417\u0421\u0418",
+    "place": "\u0427\u0435\u043b\u044f\u0431\u0438\u043d\u0441\u043a",
+    "salary": {
+      "string": "\u043e\u0442 100\u202f000 \u0440\u0443\u0431.",
+      "from": 100000,
+      "to": null,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/69552252?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041e\u043f\u0435\u0440\u0430\u0442\u043e\u0440/\u043d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u0442\u043e\u043a\u0430\u0440\u043d\u043e\u0433\u043e \u0441\u0442\u0430\u043d\u043a\u0430 \u0441 \u0427\u041f\u0423",
+    "companay": "\u041e\u041e\u041e\u00a0\u0421\u0422\u0418\u041b",
+    "place": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433, \u0410\u0432\u0442\u043e\u0432\u043e \u0438 \u0435\u0449\u0435\u00a02\u00a0",
+    "salary": {
+      "string": "80\u202f850 \u2013 113\u202f000 \u0440\u0443\u0431.",
+      "from": 80850,
+      "to": 113000,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/70087769?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041e\u043f\u0435\u0440\u0430\u0442\u043e\u0440-\u043d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u0427\u041f\u0423",
+    "companay": "\u041e\u041e\u041e\u00a0\u0422\u041b\u0422\u041c\u0415\u0425\u041e\u0411\u0420\u0410\u0411\u041e\u0422\u041a\u0410",
+    "place": "\u0422\u043e\u043b\u044c\u044f\u0442\u0442\u0438",
+    "salary": {
+      "string": "50\u202f000 \u2013 70\u202f000 \u0440\u0443\u0431.",
+      "from": 50000,
+      "to": 70000,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/69891030?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u043d\u0430 \u043e\u0431\u0443\u0432\u043d\u043e\u0435 \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u043e",
+    "companay": "\u0410\u041e\u00a0\u041f\u0422\u041a \u041c\u043e\u0434\u0435\u0440\u0430\u043c",
+    "place": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433, \u041f\u0440\u043e\u043b\u0435\u0442\u0430\u0440\u0441\u043a\u0430\u044f",
+    "salary": {
+      "string": "\u043e\u0442 65\u202f000 \u0440\u0443\u0431.",
+      "from": 65000,
+      "to": null,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/69799419?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u0441\u0442\u0430\u043d\u043a\u043e\u0432 \u0441 \u0427\u041f\u0423",
+    "companay": "\u041e\u041e\u041e\u00a0\u041f\u041a\u041f \u041a\u043e\u043b\u0438\u0431\u0440\u0438",
+    "place": "\u0427\u0435\u043b\u044f\u0431\u0438\u043d\u0441\u043a",
+    "salary": {
+      "string": "\u043e\u0442 60\u202f000 \u0440\u0443\u0431.",
+      "from": 60000,
+      "to": null,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/70227850?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u041a\u0418\u041f\u0438\u0410",
+    "companay": "\u0410\u041e\u00a0\u0410\u043a\u043e\u043d\u0438\u0442-\u0423\u0440\u0430\u043b",
+    "place": "\u0415\u043b\u0430\u0431\u0443\u0433\u0430",
+    "salary": {
+      "string": "69\u202f000 \u2013 74\u202f750 \u0440\u0443\u0431.",
+      "from": 69000,
+      "to": 74750,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/69486049?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u0418\u043d\u0436\u0435\u043d\u0435\u0440-\u043d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u041a\u0418\u041f\u0438\u0410",
+    "companay": "\u0418\u041f\u00a0\u0421\u0443\u043b\u0435\u0439\u043c\u0435\u043d\u043e\u0432\u0430 \u041b\u0435\u0439\u043b\u0430",
+    "place": "\u0428\u044b\u043c\u043a\u0435\u043d\u0442",
+    "salary": {
+      "string": "400\u202f000 \u2013 500\u202f000 KZT",
+      "from": 400000,
+      "to": 500000,
+      "valute": "KZT"
+    },
+    "link": "https://tver.hh.ru/vacancy/70516709?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041c\u0435\u0445\u0430\u043d\u0438\u043a-\u043d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u043e\u0431\u043e\u0440\u0443\u0434\u043e\u0432\u0430\u043d\u0438\u044f",
+    "companay": "\u041e\u041e\u041e\u00a0\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433\u0441\u043a\u0430\u044f \u041a\u043e\u043b\u043b\u0435\u043a\u0446\u0438\u044f",
+    "place": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433",
+    "salary": {
+      "string": "\u043e\u0442 60\u202f000 \u0440\u0443\u0431.",
+      "from": 60000,
+      "to": null,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/70145563?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041e\u043f\u0435\u0440\u0430\u0442\u043e\u0440-\u043d\u0430\u043b\u0430\u0434\u0447\u0438\u043a",
+    "companay": "\u041e\u041e\u041e\u00a0\u041d\u0418\u041b\u0421\u042d",
+    "place": "\u041a\u0430\u0437\u0430\u043d\u044c",
+    "salary": {
+      "string": "\u043e\u0442 45\u202f000 \u0440\u0443\u0431.",
+      "from": 45000,
+      "to": null,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/70367239?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041e\u043f\u0435\u0440\u0430\u0442\u043e\u0440-\u043d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u0442\u043e\u043a\u0430\u0440\u043d\u043e\u0433\u043e \u0441\u0442\u0430\u043d\u043a\u0430 (\u041d\u042631)",
+    "companay": "\u0422\u043e\u043a\u0430\u0440\u043d\u044b\u0435 \u0422\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438",
+    "place": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433, \u041a\u0438\u0440\u043e\u0432\u0441\u043a\u0438\u0439 \u0437\u0430\u0432\u043e\u0434 \u0438 \u0435\u0449\u0435\u00a01\u00a0",
+    "salary": {
+      "string": "80\u202f000 \u2013 120\u202f000 \u0440\u0443\u0431.",
+      "from": 80000,
+      "to": 120000,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/70521626?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041c\u0435\u0445\u0430\u043d\u0438\u043a-\u043d\u0430\u043b\u0430\u0434\u0447\u0438\u043a",
+    "companay": "\u0410\u043b\u043b\u0435\u0440 \u041f\u0435\u0442\u0444\u0443\u0434",
+    "place": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433",
+    "salary": {
+      "string": "\u043e\u0442 70\u202f000 \u0440\u0443\u0431.",
+      "from": 70000,
+      "to": null,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/69560475?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u043e\u0431\u043e\u0440\u0443\u0434\u043e\u0432\u0430\u043d\u0438\u044f",
+    "companay": "\u0410\u041e\u00a0\u041e\u041a\u0411 \u041c\u042d\u041b",
+    "place": "\u041a\u0430\u043b\u0443\u0433\u0430",
+    "salary": {
+      "string": "\u043e\u0442 50\u202f000 \u0440\u0443\u0431.",
+      "from": 50000,
+      "to": null,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/70575970?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a-\u043e\u043f\u0435\u0440\u0430\u0442\u043e\u0440 \u0442\u043e\u043a\u0430\u0440\u043d\u044b\u0445 \u0441\u0442\u0430\u043d\u043a\u043e\u0432 \u0441 \u0427\u041f\u0423",
+    "companay": "\u041e\u041e\u041e\u00a0\u041d\u0435\u0432\u0441\u043a\u0438\u0439 \u0438\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442\u0430\u043b\u044c\u043d\u044b\u0439 \u0437\u0430\u0432\u043e\u0434",
+    "place": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433",
+    "salary": {
+      "string": "90\u202f000 \u2013 125\u202f000 \u0440\u0443\u0431.",
+      "from": 90000,
+      "to": 125000,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/69910023?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u043e\u0431\u043e\u0440\u0443\u0434\u043e\u0432\u0430\u043d\u0438\u044f",
+    "companay": "\u041e\u041e\u041e\u00a0\u0411\u0438\u043e\u043d\u0438\u043a\u0441",
+    "place": "\u0412\u043e\u043b\u0436\u0441\u043a\u0438\u0439 (\u0412\u043e\u043b\u0433\u043e\u0433\u0440\u0430\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c)",
+    "salary": {
+      "string": "55\u202f000 \u2013 60\u202f000 \u0440\u0443\u0431.",
+      "from": 55000,
+      "to": 60000,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/70370325?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u043f\u0440\u043e\u043c\u044b\u0448\u043b\u0435\u043d\u043d\u043e\u0433\u043e \u043e\u0431\u043e\u0440\u0443\u0434\u043e\u0432\u0430\u043d\u0438\u044f",
+    "companay": "\u0410\u041e\u00a0\u0414\u0410\u041a\u0422-\u0418\u043d\u0436\u0438\u043d\u0438\u0440\u0438\u043d\u0433",
+    "place": "\u041f\u0443\u0448\u043a\u0438\u043d\u043e (\u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c)",
+    "salary": {
+      "string": "\u043e\u0442 60\u202f000 \u0440\u0443\u0431.",
+      "from": 60000,
+      "to": null,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/69975169?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u0441\u0442\u0430\u043d\u043a\u043e\u0432 \u0441 \u0427\u041f\u0423 (\u0444\u0440\u0435\u0437\u0435\u0440\u043d\u0430\u044f \u0433\u0440\u0443\u043f\u043f\u0430)",
+    "companay": "\u041e\u041e\u041e\u00a0\u0427\u0417\u0421\u0418",
+    "place": "\u0427\u0435\u043b\u044f\u0431\u0438\u043d\u0441\u043a",
+    "salary": {
+      "string": "\u043e\u0442 100\u202f000 \u0440\u0443\u0431.",
+      "from": 100000,
+      "to": null,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/69552252?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a (\u043e\u043f\u0435\u0440\u0430\u0442\u043e\u0440) \u0441\u0442\u0430\u043d\u043a\u043e\u0432 \u0441 \u0427\u041f\u0423",
+    "companay": "AP-UNITYHR",
+    "place": "\u0415\u043a\u0430\u0442\u0435\u0440\u0438\u043d\u0431\u0443\u0440\u0433",
+    "salary": {
+      "string": "100\u202f000 \u2013 150\u202f000 \u0440\u0443\u0431.",
+      "from": 100000,
+      "to": 150000,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/70192118?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u0418\u043d\u0436\u0435\u043d\u0435\u0440-\u043d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u0410\u0421\u0423\u0422\u041f",
+    "companay": "\u041e\u041e\u041e\u00a0\u0412\u043e\u043b\u0433\u043e-\u041a\u0430\u043c\u0441\u043a\u0430\u044f \u0418\u043d\u0436\u0438\u043d\u0438\u0440\u0438\u043d\u0433\u043e\u0432\u0430\u044f \u041a\u043e\u043c\u043f\u0430\u043d\u0438\u044f",
+    "place": "\u041f\u0435\u0440\u043c\u044c",
+    "salary": {
+      "string": "\u043e\u0442 90\u202f000 \u0440\u0443\u0431.",
+      "from": 90000,
+      "to": null,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/70157439?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u043e\u0431\u043e\u0440\u0443\u0434\u043e\u0432\u0430\u043d\u0438\u044f",
+    "companay": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u043e \u00ab\u0424\u0430\u0431\u0440\u0438\u043a\u0430 \u041a\u0443\u0445\u043d\u0438\u00bb",
+    "place": "\u041c\u043e\u0441\u043a\u0432\u0430",
+    "salary": {
+      "string": "\u043e\u0442 65\u202f000 \u0440\u0443\u0431.",
+      "from": 65000,
+      "to": null,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/70406341?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041e\u043f\u0435\u0440\u0430\u0442\u043e\u0440-\u043d\u0430\u043b\u0430\u0434\u0447\u0438\u043a",
+    "companay": "\u041e\u041e\u041e\u00a0\u041d\u0418\u041b\u0421\u042d",
+    "place": "\u042d\u043b\u0435\u043a\u0442\u0440\u043e\u0441\u0442\u0430\u043b\u044c",
+    "salary": {
+      "string": "60\u202f000 \u2013 65\u202f000 \u0440\u0443\u0431.",
+      "from": 60000,
+      "to": 65000,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/70450411?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u0445\u043e\u043b\u043e\u0434\u043d\u043e-\u0432\u044b\u0441\u0430\u0434\u043e\u0447\u043d\u043e\u0433\u043e \u043e\u0431\u043e\u0440\u0443\u0434\u043e\u0432\u0430\u043d\u0438\u044f",
+    "companay": "\u041e\u041e\u041e\u00a0\u0420\u0410\u041c",
+    "place": "\u041d\u0438\u0436\u043d\u0438\u0439 \u041d\u043e\u0432\u0433\u043e\u0440\u043e\u0434, \u0411\u0443\u0440\u043d\u0430\u043a\u043e\u0432\u0441\u043a\u0430\u044f",
+    "salary": {
+      "string": "\u043e\u0442 60\u202f000 \u0440\u0443\u0431.",
+      "from": 60000,
+      "to": null,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/69945039?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u043e\u0431\u043e\u0440\u0443\u0434\u043e\u0432\u0430\u043d\u0438\u044f",
+    "companay": "\u041b\u0438\u043b\u0438\u044f",
+    "place": "\u0420\u043e\u0441\u0442\u043e\u0432-\u043d\u0430-\u0414\u043e\u043d\u0443",
+    "salary": {
+      "string": "\u043e\u0442 60\u202f000 \u0440\u0443\u0431.",
+      "from": 60000,
+      "to": null,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/54956903?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a-\u041e\u043f\u0435\u0440\u0430\u0442\u043e\u0440 \u0424\u0440\u0435\u0437\u0435\u0440\u043d\u043e\u0433\u043e \u0441\u0442\u0430\u043d\u043a\u0430 \u0441 \u0427\u041f\u0423",
+    "companay": "\u041b\u0418\u0413\u0420\u0410",
+    "place": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433, \u041d\u0430\u0440\u0432\u0441\u043a\u0430\u044f",
+    "salary": {
+      "string": "75\u202f000 \u2013 98\u202f000 \u0440\u0443\u0431.",
+      "from": 75000,
+      "to": 98000,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/69670059?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u043e\u0431\u043e\u0440\u0443\u0434\u043e\u0432\u0430\u043d\u0438\u044f/\u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043c\u0435\u0445\u0430\u043d\u0438\u043a/\u0441\u043b\u0435\u0441\u0430\u0440\u044c",
+    "companay": "\u041e\u041e\u041e\u00a0\u041d\u043e\u0432\u043e\u0441\u0438\u0431\u0438\u0440\u0441\u043a\u0438\u0439 \u0440\u0435\u0441\u043f\u0438\u0440\u0430\u0442\u043e\u0440\u043d\u044b\u0439 \u0437\u0430\u0432\u043e\u0434",
+    "place": "\u041d\u043e\u0432\u043e\u0441\u0438\u0431\u0438\u0440\u0441\u043a",
+    "salary": {
+      "string": "50\u202f000 \u2013 55\u202f000 \u0440\u0443\u0431.",
+      "from": 50000,
+      "to": 55000,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/69457061?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u0432\u0435\u043d\u0442\u0438\u043b\u044f\u0446\u0438\u043e\u043d\u043d\u043e\u0433\u043e \u043e\u0431\u043e\u0440\u0443\u0434\u043e\u0432\u0430\u043d\u0438\u044f",
+    "companay": "\u041e\u041e\u041e\u00a0\u0418\u043d\u0436\u0435\u043d\u0435\u0440\u043d\u044b\u0435 \u0441\u0438\u0441\u0442\u0435\u043c\u044b \u0438 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438",
+    "place": "\u041c\u043e\u0441\u043a\u0432\u0430, \u041f\u0430\u0432\u0435\u043b\u0435\u0446\u043a\u0430\u044f",
+    "salary": {
+      "string": "50\u202f000 \u2013 200\u202f000 \u0440\u0443\u0431.",
+      "from": 50000,
+      "to": 200000,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/69751392?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u0418\u043d\u0436\u0435\u043d\u0435\u0440-\u043d\u0430\u043b\u0430\u0434\u0447\u0438\u043a",
+    "companay": "\u041c\u0438\u0441\u0442\u0440\u0430\u043b\u044c",
+    "place": "\u041f\u043e\u0434\u043e\u043b\u044c\u0441\u043a (\u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c)",
+    "salary": {
+      "string": "\u043e\u0442 80\u202f000 \u0440\u0443\u0431.",
+      "from": 80000,
+      "to": null,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/69200294?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a / \u044d\u043b\u0435\u043a\u0442\u0440\u0438\u043a \u043f\u043e \u0440\u0435\u043c\u043e\u043d\u0442\u0443 \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043e\u0431\u043e\u0440\u0443\u0434\u043e\u0432\u0430\u043d\u0438\u044f \u0442\u0435\u0445\u043d\u0438\u043a\u0438 \u0411\u0415\u041b\u0410\u0417",
+    "companay": "\u041e\u041e\u041e\u00a0\u0411\u0435\u043b\u0442\u0440\u0430\u043d\u0441\u043b\u043e\u0433\u0438\u0441\u0442\u0438\u043a",
+    "place": "\u0415\u043a\u0430\u0442\u0435\u0440\u0438\u043d\u0431\u0443\u0440\u0433",
+    "salary": {
+      "string": "\u043e\u0442 83\u202f000 \u0440\u0443\u0431.",
+      "from": 83000,
+      "to": null,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/70471105?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u0441\u0442\u0430\u043d\u043a\u043e\u0432 \u0441 \u0427\u041f\u0423",
+    "companay": "\u0410\u041e\u00a0\u0413\u041d\u041f\u041f \u0420\u0415\u0413\u0418\u041e\u041d",
+    "place": "\u041c\u043e\u0441\u043a\u0432\u0430, \u041a\u0430\u0448\u0438\u0440\u0441\u043a\u0430\u044f",
+    "salary": {
+      "string": "80\u202f000 \u2013 110\u202f000 \u0440\u0443\u0431.",
+      "from": 80000,
+      "to": 110000,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/69561954?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u0441\u0442\u0430\u043d\u043a\u043e\u0432 \u0427\u041f\u0423 (\u0422\u0430\u043c\u0431\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c)",
+    "companay": "\u041e\u041e\u041e\u00a0\u041c\u0435\u0442\u0435\u043e\u0440\u0421\u0442\u0430\u0444\u0444",
+    "place": "\u0427\u0435\u0431\u043e\u043a\u0441\u0430\u0440\u044b",
+    "salary": {
+      "string": "110\u202f000 \u2013 132\u202f000 \u0440\u0443\u0431.",
+      "from": 110000,
+      "to": 132000,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/68567964?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u0427\u041f\u0423 (\u0442\u043e\u043a\u0430\u0440\u044c)",
+    "companay": "\u0410\u041e\u00a0\u0410\u043b\u0442\u0430\u0439\u0441\u043a\u0430\u044f \u041c\u0430\u0448\u0438\u043d\u043e\u0441\u0442\u0440\u043e\u0438\u0442\u0435\u043b\u044c\u043d\u0430\u044f \u041a\u043e\u043c\u043f\u0430\u043d\u0438\u044f",
+    "place": "\u0411\u0430\u0440\u043d\u0430\u0443\u043b",
+    "salary": {
+      "string": "\u043e\u0442 50\u202f000 \u0440\u0443\u0431.",
+      "from": 50000,
+      "to": null,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/54038193?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041e\u043f\u0435\u0440\u0430\u0442\u043e\u0440-\u043d\u0430\u043b\u0430\u0434\u0447\u0438\u043a",
+    "companay": "\u041e\u041e\u041e\u00a0\u0411\u0430\u0448\u043c\u0435\u0442\u0433\u0440\u0443\u043f\u043f",
+    "place": "\u0423\u0444\u0430",
+    "salary": {
+      "string": "\u043e\u0442 50\u202f000 \u0440\u0443\u0431.",
+      "from": 50000,
+      "to": null,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/69598093?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u043e\u0431\u043e\u0440\u0443\u0434\u043e\u0432\u0430\u043d\u0438\u044f Tetra Pak.",
+    "companay": "\u0418\u041f\u00a0\u041c\u043e\u043b\u0434\u0430\u0433\u0430\u0437\u0438\u043d\u043e\u0432\u0430 \u041d\u0430\u0437\u0438\u0440\u0430",
+    "place": "\u0428\u044b\u043c\u043a\u0435\u043d\u0442",
+    "salary": {
+      "string": "300\u202f000 \u2013 500\u202f000 KZT",
+      "from": 300000,
+      "to": 500000,
+      "valute": "KZT"
+    },
+    "link": "https://tver.hh.ru/vacancy/70526937?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u0418\u043d\u0436\u0435\u043d\u0435\u0440-\u043d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u041a\u0418\u041f\u0438\u0410",
+    "companay": "\u041e\u041e\u041e\u00a0\u0410\u0417\u0418\u041c\u0423\u0422",
+    "place": "\u041c\u043e\u0441\u043a\u0432\u0430",
+    "salary": {
+      "string": "80\u202f000 \u2013 140\u202f000 \u0440\u0443\u0431.",
+      "from": 80000,
+      "to": 140000,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/69579231?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u0422\u041f\u0410",
+    "companay": "\u041e\u041e\u041e\u00a0\u041d\u0417\u041f\u0422",
+    "place": "\u041d\u043e\u0432\u043e\u0441\u0438\u0431\u0438\u0440\u0441\u043a",
+    "salary": {
+      "string": "40\u202f000 \u2013 40\u202f000 \u0440\u0443\u0431.",
+      "from": 40000,
+      "to": 40000,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/70518512?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u0441\u0442\u0430\u043d\u043a\u043e\u0432 \u0441 \u0427\u041f\u0423",
+    "companay": "\u041e\u041e\u041e\u00a0\u041f\u0420\u041e\u041c\u0422\u0415\u0425\u0418\u041d\u041d\u041e\u0412\u0410\u0426\u0418\u0418",
+    "place": "\u041c\u0438\u043d\u0441\u043a",
+    "salary": {
+      "string": "\u043e\u0442 3\u202f000 \u0431\u0435\u043b.\u00a0\u0440\u0443\u0431.",
+      "from": 3000,
+      "to": null,
+      "valute": "\u0431\u0435\u043b.\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/69825543?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u043e\u0431\u043e\u0440\u0443\u0434\u043e\u0432\u0430\u043d\u0438\u044f",
+    "companay": "\u041e\u041e\u041e\u00a0\u0421\u043f\u0435\u0446\u044d\u043d\u0435\u0440\u0433\u043e\u0433\u0430\u0437",
+    "place": "\u041f\u0435\u0440\u043c\u044c",
+    "salary": {
+      "string": "60\u202f000 \u2013 90\u202f000 \u0440\u0443\u0431.",
+      "from": 60000,
+      "to": 90000,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/55362226?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u043c\u0430\u0448\u0438\u043d \u0438 \u0430\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u043b\u0438\u043d\u0438\u0439 \u043f\u043e \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u0443 \u0438\u0437\u0434\u0435\u043b\u0438\u0439 \u0438\u0437 \u043f\u043b\u0430\u0441\u0442\u043c\u0430\u0441\u0441",
+    "companay": "\u041e\u041e\u041e\u00a0\u041f\u0417\u041f\u0418",
+    "place": "\u0412\u043e\u0441\u043a\u0440\u0435\u0441\u0435\u043d\u0441\u043a",
+    "salary": {
+      "string": "\u043e\u0442 80\u202f000 \u0440\u0443\u0431.",
+      "from": 80000,
+      "to": null,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/69329401?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442-\u043d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u0444\u0440\u0435\u0437\u0435\u0440\u043d\u043e\u0433\u043e \u0441\u0442\u0430\u043d\u043a\u0430 \u0441 \u0427\u041f\u0423",
+    "companay": "\u0422\u043e\u043a\u0430\u0440\u043d\u044b\u0435 \u0422\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438",
+    "place": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433, \u041a\u0438\u0440\u043e\u0432\u0441\u043a\u0438\u0439 \u0437\u0430\u0432\u043e\u0434 \u0438 \u0435\u0449\u0435\u00a01\u00a0",
+    "salary": {
+      "string": "130\u202f000 \u2013 150\u202f000 \u0440\u0443\u0431.",
+      "from": 130000,
+      "to": 150000,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/69476868?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041e\u043f\u0435\u0440\u0430\u0442\u043e\u0440-\u043d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u0441\u0442\u0430\u043d\u043a\u043e\u0432 \u0441 \u0427\u041f\u0423/\u042d\u043b\u0435\u043a\u0442\u0440\u043e\u044d\u0440\u043e\u0437\u0438\u043e\u043d\u0438\u0441\u0442",
+    "companay": "\u041e\u041e\u041e\u00a0\u0412\u041e\u0421\u0422\u041e\u041a\u041c\u0410\u0428 \u0418\u041d\u0416\u0418\u041d\u0418\u0420\u0418\u041d\u0413",
+    "place": "\u041c\u043e\u0441\u043a\u0432\u0430",
+    "salary": {
+      "string": "\u043e\u0442 80\u202f000 \u0440\u0443\u0431.",
+      "from": 80000,
+      "to": null,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/69993974?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u0441\u0442\u0430\u043d\u043a\u043e\u0432 \u0441 \u041f\u0423",
+    "companay": "\u0412\u0438\u0440\u0438\u0430\u043b",
+    "place": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433",
+    "salary": {
+      "string": "76\u202f000 \u2013 88\u202f000 \u0440\u0443\u0431.",
+      "from": 76000,
+      "to": 88000,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/38252518?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u0421\u043b\u0435\u0441\u0430\u0440\u044c-\u043d\u0430\u043b\u0430\u0434\u0447\u0438\u043a",
+    "companay": "\u041e\u041e\u041e\u00a0\u041c\u0435\u0431\u0435\u043b\u044c\u043d\u0430\u044f \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u044f \u0421\u0442\u0438\u043b\u044c",
+    "place": "\u041f\u0435\u043d\u0437\u0430",
+    "salary": {
+      "string": "\u043e\u0442 55\u202f000 \u0440\u0443\u0431.",
+      "from": 55000,
+      "to": null,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/69883225?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u043f\u0440\u043e\u043c\u044b\u0448\u043b\u0435\u043d\u043d\u043e\u0433\u043e \u043e\u0431\u043e\u0440\u0443\u0434\u043e\u0432\u0430\u043d\u0438\u044f",
+    "companay": "\u0410\u041e\u00a0\u041d\u043e\u0432\u043e\u0441\u0438\u0431\u0438\u0440\u0441\u043a\u0438\u0439 \u043a\u0430\u0440\u0442\u043e\u043d\u043d\u043e-\u0431\u0443\u043c\u0430\u0436\u043d\u044b\u0439 \u043a\u043e\u043c\u0431\u0438\u043d\u0430\u0442",
+    "place": "\u041d\u043e\u0432\u043e\u0441\u0438\u0431\u0438\u0440\u0441\u043a",
+    "salary": {
+      "string": "50\u202f000 \u2013 70\u202f000 \u0440\u0443\u0431.",
+      "from": 50000,
+      "to": 70000,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/70559533?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u043c\u043e\u043b\u043e\u0447\u043d\u043e\u0433\u043e \u043e\u0431\u043e\u0440\u0443\u0434\u043e\u0432\u0430\u043d\u0438\u044f",
+    "companay": "\u041e\u041e\u041e\u00a0\u042d\u043a\u043e\u043c\u0438\u043b\u043a",
+    "place": "\u041b\u043e\u0431\u043d\u044f",
+    "salary": {
+      "string": "\u043e\u0442 80\u202f000 \u0440\u0443\u0431.",
+      "from": 80000,
+      "to": null,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/70116834?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u0418\u043d\u0436\u0435\u043d\u0435\u0440-\u043d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u041a\u0418\u041f\u0438\u0410 \u043a\u043e\u0442\u0435\u043b\u044c\u043d\u044b\u0445/\u043f\u0435\u0447\u0435\u0439",
+    "companay": "\u041e\u041e\u041e\u00a0\u0413\u0430\u0437\u0441\u0442\u0440\u043e\u0439",
+    "place": "\u041c\u043e\u0441\u043a\u0432\u0430",
+    "salary": {
+      "string": "\u043e\u0442 100\u202f000 \u0440\u0443\u0431.",
+      "from": 100000,
+      "to": null,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/70212752?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a",
+    "companay": "Unilever",
+    "place": "\u0415\u043a\u0430\u0442\u0435\u0440\u0438\u043d\u0431\u0443\u0440\u0433",
+    "salary": {
+      "string": "\u043e\u0442 54\u202f000 \u0440\u0443\u0431.",
+      "from": 54000,
+      "to": null,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/68726584?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u043e\u0431\u043e\u0440\u0443\u0434\u043e\u0432\u0430\u043d\u0438\u044f",
+    "companay": "\u041e\u041e\u041e\u00a0\u041c\u0415\u0413\u0410\u041f\u041b\u0410\u0421\u0422 2000",
+    "place": "\u041d\u043e\u0433\u0438\u043d\u0441\u043a",
+    "salary": {
+      "string": "47\u202f000 \u2013 75\u202f000 \u0440\u0443\u0431.",
+      "from": 47000,
+      "to": 75000,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/67929780?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u0445\u043e\u043b\u043e\u0434\u043d\u043e\u0448\u0442\u0430\u043c\u043f\u043e\u0432\u043e\u0447\u043d\u043e\u0433\u043e \u043e\u0431\u043e\u0440\u0443\u0434\u043e\u0432\u0430\u043d\u0438\u044f",
+    "companay": "\u041e\u0410\u041e\u00a0\u041d\u041f\u041f \u041a\u0440\u0430\u0441\u043d\u043e\u0437\u043d\u0430\u043c\u0435\u043d\u0435\u0446",
+    "place": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433",
+    "salary": {
+      "string": "\u043e\u0442 70\u202f000 \u0440\u0443\u0431.",
+      "from": 70000,
+      "to": null,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/68920337?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041c\u0435\u0445\u0430\u043d\u0438\u043a-\u043d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u043e\u0431\u043e\u0440\u0443\u0434\u043e\u0432\u0430\u043d\u0438\u044f (\u0413\u0435\u0440\u043c\u0430\u043d\u0438\u044f)",
+    "companay": "\u041e\u041e\u041e\u00a0\u0414\u0435\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442 \u042453",
+    "place": "\u041a\u0430\u043b\u0438\u043d\u0438\u043d\u0433\u0440\u0430\u0434",
+    "salary": {
+      "string": "2\u202f200 \u2013 2\u202f400 EUR",
+      "from": 2200,
+      "to": 2400,
+      "valute": "EUR"
+    },
+    "link": "https://tver.hh.ru/vacancy/70486724?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041c\u0435\u0445\u0430\u043d\u0438\u043a-\u043d\u0430\u043b\u0430\u0434\u0447\u0438\u043a",
+    "companay": "Coleman Group",
+    "place": "\u041d\u043e\u0433\u0438\u043d\u0441\u043a",
+    "salary": {
+      "string": "60\u202f000 \u2013 60\u202f000 \u0440\u0443\u0431.",
+      "from": 60000,
+      "to": 60000,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/70456015?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u0441\u0442\u0430\u043d\u043a\u043e\u0432 \u0441 \u0427\u041f\u0423",
+    "companay": "\u0410\u041e\u00a0\u0413\u041d\u041f\u041f \u0420\u0415\u0413\u0418\u041e\u041d",
+    "place": "\u041c\u043e\u0441\u043a\u0432\u0430, \u041a\u0430\u0448\u0438\u0440\u0441\u043a\u0430\u044f",
+    "salary": {
+      "string": "80\u202f000 \u2013 110\u202f000 \u0440\u0443\u0431.",
+      "from": 80000,
+      "to": 110000,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/69561954?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u0441\u0442\u0430\u043d\u043a\u043e\u0432 \u0427\u041f\u0423 (\u0422\u0430\u043c\u0431\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c)",
+    "companay": "\u041e\u041e\u041e\u00a0\u041c\u0435\u0442\u0435\u043e\u0440\u0421\u0442\u0430\u0444\u0444",
+    "place": "\u0427\u0435\u0431\u043e\u043a\u0441\u0430\u0440\u044b",
+    "salary": {
+      "string": "110\u202f000 \u2013 132\u202f000 \u0440\u0443\u0431.",
+      "from": 110000,
+      "to": 132000,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/68567964?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u041a\u0418\u041f\u0438\u0410",
+    "companay": "\u041e\u041e\u041e\u00a0\u0422\u0435\u0445\u043d\u043e\u0442\u0440\u043e\u043d-\u041c\u0435\u0442\u0438\u0437",
+    "place": "\u041d\u0430\u0431\u0435\u0440\u0435\u0436\u043d\u044b\u0435 \u0427\u0435\u043b\u043d\u044b",
+    "salary": {
+      "string": "\u043e\u0442 58\u202f500 \u0440\u0443\u0431.",
+      "from": 58500,
+      "to": null,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/70034474?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u0427\u041f\u0423 (\u0442\u043e\u043a\u0430\u0440\u044c)",
+    "companay": "\u0410\u041e\u00a0\u0410\u043b\u0442\u0430\u0439\u0441\u043a\u0430\u044f \u041c\u0430\u0448\u0438\u043d\u043e\u0441\u0442\u0440\u043e\u0438\u0442\u0435\u043b\u044c\u043d\u0430\u044f \u041a\u043e\u043c\u043f\u0430\u043d\u0438\u044f",
+    "place": "\u0411\u0430\u0440\u043d\u0430\u0443\u043b",
+    "salary": {
+      "string": "\u043e\u0442 50\u202f000 \u0440\u0443\u0431.",
+      "from": 50000,
+      "to": null,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/54038193?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041c\u0435\u0445\u0430\u043d\u0438\u043a-\u043d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u0444\u0430\u0441\u043e\u0432\u043e\u0447\u043d\u043e\u0433\u043e \u043e\u0431\u043e\u0440\u0443\u0434\u043e\u0432\u0430\u043d\u0438\u044f",
+    "companay": "\u041e\u041e\u041e\u00a0\u0410\u0433\u0440\u0438\u0432\u0435\u0440",
+    "place": "\u041c\u043e\u0441\u043a\u0432\u0430, \u0417\u044f\u0431\u043b\u0438\u043a\u043e\u0432\u043e",
+    "salary": {
+      "string": "\u043e\u0442 80\u202f000 \u0440\u0443\u0431.",
+      "from": 80000,
+      "to": null,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/70432949?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041e\u043f\u0435\u0440\u0430\u0442\u043e\u0440-\u043d\u0430\u043b\u0430\u0434\u0447\u0438\u043a",
+    "companay": "\u041e\u041e\u041e\u00a0\u0411\u0430\u0448\u043c\u0435\u0442\u0433\u0440\u0443\u043f\u043f",
+    "place": "\u0423\u0444\u0430",
+    "salary": {
+      "string": "\u043e\u0442 50\u202f000 \u0440\u0443\u0431.",
+      "from": 50000,
+      "to": null,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/69598093?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u043e\u0431\u043e\u0440\u0443\u0434\u043e\u0432\u0430\u043d\u0438\u044f Tetra Pak.",
+    "companay": "\u0418\u041f\u00a0\u041c\u043e\u043b\u0434\u0430\u0433\u0430\u0437\u0438\u043d\u043e\u0432\u0430 \u041d\u0430\u0437\u0438\u0440\u0430",
+    "place": "\u0428\u044b\u043c\u043a\u0435\u043d\u0442",
+    "salary": {
+      "string": "300\u202f000 \u2013 500\u202f000 KZT",
+      "from": 300000,
+      "to": 500000,
+      "valute": "KZT"
+    },
+    "link": "https://tver.hh.ru/vacancy/70526937?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u0418\u043d\u0436\u0435\u043d\u0435\u0440-\u043d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u041a\u0418\u041f\u0438\u0410",
+    "companay": "\u041e\u041e\u041e\u00a0\u0410\u0417\u0418\u041c\u0423\u0422",
+    "place": "\u041c\u043e\u0441\u043a\u0432\u0430",
+    "salary": {
+      "string": "80\u202f000 \u2013 140\u202f000 \u0440\u0443\u0431.",
+      "from": 80000,
+      "to": 140000,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/69579231?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u0422\u041f\u0410",
+    "companay": "\u041e\u041e\u041e\u00a0\u041d\u0417\u041f\u0422",
+    "place": "\u041d\u043e\u0432\u043e\u0441\u0438\u0431\u0438\u0440\u0441\u043a",
+    "salary": {
+      "string": "40\u202f000 \u2013 40\u202f000 \u0440\u0443\u0431.",
+      "from": 40000,
+      "to": 40000,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/70518512?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u0441\u0442\u0430\u043d\u043a\u043e\u0432 \u0441 \u0427\u041f\u0423",
+    "companay": "\u041e\u041e\u041e\u00a0\u041f\u0420\u041e\u041c\u0422\u0415\u0425\u0418\u041d\u041d\u041e\u0412\u0410\u0426\u0418\u0418",
+    "place": "\u041c\u0438\u043d\u0441\u043a",
+    "salary": {
+      "string": "\u043e\u0442 3\u202f000 \u0431\u0435\u043b.\u00a0\u0440\u0443\u0431.",
+      "from": 3000,
+      "to": null,
+      "valute": "\u0431\u0435\u043b.\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/69825543?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a-\u043c\u0435\u0445\u0430\u043d\u0438\u043a",
+    "companay": "Coleman Group",
+    "place": "\u041f\u0430\u0432\u043b\u043e\u0432\u0441\u043a\u0438\u0439 \u041f\u043e\u0441\u0430\u0434",
+    "salary": {
+      "string": "60\u202f000 \u2013 60\u202f000 \u0440\u0443\u0431.",
+      "from": 60000,
+      "to": 60000,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/70455496?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u0430\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u043b\u0438\u043d\u0438\u0439 \u0438 \u0430\u0433\u0440\u0435\u0433\u0430\u0442\u043d\u044b\u0445 \u0441\u0442\u0430\u043d\u043a\u043e\u0432",
+    "companay": "\u041f\u0410\u041e \u00ab\u041a\u0410\u041c\u0410\u0417\u00bb",
+    "place": "\u041e\u0440\u0435\u043d\u0431\u0443\u0440\u0433",
+    "salary": {
+      "string": "\u043e\u0442 100\u202f000 \u0440\u0443\u0431.",
+      "from": 100000,
+      "to": null,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/70172699?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u043e\u0431\u043e\u0440\u0443\u0434\u043e\u0432\u0430\u043d\u0438\u044f",
+    "companay": "\u041e\u041e\u041e\u00a0\u0421\u043f\u0435\u0446\u044d\u043d\u0435\u0440\u0433\u043e\u0433\u0430\u0437",
+    "place": "\u041f\u0435\u0440\u043c\u044c",
+    "salary": {
+      "string": "60\u202f000 \u2013 90\u202f000 \u0440\u0443\u0431.",
+      "from": 60000,
+      "to": 90000,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/55362226?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u043c\u0430\u0448\u0438\u043d \u0438 \u0430\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u043b\u0438\u043d\u0438\u0439 \u043f\u043e \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u0443 \u0438\u0437\u0434\u0435\u043b\u0438\u0439 \u0438\u0437 \u043f\u043b\u0430\u0441\u0442\u043c\u0430\u0441\u0441",
+    "companay": "\u041e\u041e\u041e\u00a0\u041f\u0417\u041f\u0418",
+    "place": "\u0412\u043e\u0441\u043a\u0440\u0435\u0441\u0435\u043d\u0441\u043a",
+    "salary": {
+      "string": "\u043e\u0442 80\u202f000 \u0440\u0443\u0431.",
+      "from": 80000,
+      "to": null,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/69329401?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442-\u043d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u0444\u0440\u0435\u0437\u0435\u0440\u043d\u043e\u0433\u043e \u0441\u0442\u0430\u043d\u043a\u0430 \u0441 \u0427\u041f\u0423",
+    "companay": "\u0422\u043e\u043a\u0430\u0440\u043d\u044b\u0435 \u0422\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438",
+    "place": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433, \u041a\u0438\u0440\u043e\u0432\u0441\u043a\u0438\u0439 \u0437\u0430\u0432\u043e\u0434 \u0438 \u0435\u0449\u0435\u00a01\u00a0",
+    "salary": {
+      "string": "130\u202f000 \u2013 150\u202f000 \u0440\u0443\u0431.",
+      "from": 130000,
+      "to": 150000,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/69476868?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041e\u043f\u0435\u0440\u0430\u0442\u043e\u0440-\u043d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u0441\u0442\u0430\u043d\u043a\u043e\u0432 \u0441 \u0427\u041f\u0423/\u042d\u043b\u0435\u043a\u0442\u0440\u043e\u044d\u0440\u043e\u0437\u0438\u043e\u043d\u0438\u0441\u0442",
+    "companay": "\u041e\u041e\u041e\u00a0\u0412\u041e\u0421\u0422\u041e\u041a\u041c\u0410\u0428 \u0418\u041d\u0416\u0418\u041d\u0418\u0420\u0418\u041d\u0413",
+    "place": "\u041c\u043e\u0441\u043a\u0432\u0430",
+    "salary": {
+      "string": "\u043e\u0442 80\u202f000 \u0440\u0443\u0431.",
+      "from": 80000,
+      "to": null,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/69993974?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041e\u043f\u0435\u0440\u0430\u0442\u043e\u0440-\u043d\u0430\u043b\u0430\u0434\u0447\u0438\u043a",
+    "companay": "\u041e\u041e\u041e\u00a0\u0411\u0430\u0437\u0430 \u0421\u0435\u0442\u043e\u043a",
+    "place": "\u041d\u0430\u0431\u0435\u0440\u0435\u0436\u043d\u044b\u0435 \u0427\u0435\u043b\u043d\u044b",
+    "salary": {
+      "string": "\u043e\u0442 50\u202f000 \u0440\u0443\u0431.",
+      "from": 50000,
+      "to": null,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/70119903?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u043e\u0431\u043e\u0440\u0443\u0434\u043e\u0432\u0430\u043d\u0438\u044f",
+    "companay": "\u041e\u041e\u041e\u00a0\u0411\u0438\u043e\u043d\u0438\u043a\u0441",
+    "place": "\u0412\u043e\u043b\u0436\u0441\u043a\u0438\u0439 (\u0412\u043e\u043b\u0433\u043e\u0433\u0440\u0430\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c)",
+    "salary": {
+      "string": "55\u202f000 \u2013 60\u202f000 \u0440\u0443\u0431.",
+      "from": 55000,
+      "to": 60000,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/70370325?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u0442\u0435\u0440\u043c\u043e\u043f\u043b\u0430\u0441\u0442\u0430\u0432\u0442\u043e\u043c\u0430\u0442\u043e\u0432",
+    "companay": "\u041e\u041e\u041e\u00a0\u0413\u0430\u0439-\u041a\u043e\u043c\u043f\u043b\u0435\u043a\u0442",
+    "place": "\u041c\u043e\u0441\u043a\u0432\u0430, \u0411\u0443\u043b\u044c\u0432\u0430\u0440 \u0420\u043e\u043a\u043e\u0441\u0441\u043e\u0432\u0441\u043a\u043e\u0433\u043e",
+    "salary": null,
+    "link": "https://tver.hh.ru/vacancy/70114275?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u043e\u0431\u043e\u0440\u0443\u0434\u043e\u0432\u0430\u043d\u0438\u044f",
+    "companay": "\u041e\u041e\u041e\u00a0\u041d\u043e\u0432\u044b\u0435 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438 \u0438 \u043c\u0430\u0442\u0435\u0440\u0438\u0430\u043b\u044b",
+    "place": "\u0421\u0435\u0440\u0433\u0438\u0435\u0432 \u041f\u043e\u0441\u0430\u0434",
+    "salary": {
+      "string": "\u043e\u0442 60\u202f000 \u0440\u0443\u0431.",
+      "from": 60000,
+      "to": null,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/70563575?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u0418\u043d\u0436\u0435\u043d\u0435\u0440-\u043d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u0441\u0438\u0441\u0442\u0435\u043c \u0434\u0438\u0441\u043f\u0435\u0442\u0447\u0435\u0440\u0438\u0437\u0430\u0446\u0438\u0438",
+    "companay": "\u041e\u041e\u041e\u00a0\u0422\u0435\u0445\u043d\u043e\u043b\u0438\u0444\u0442 \u0421\u0435\u0440\u0432\u0438\u0441",
+    "place": "\u041c\u043e\u0441\u043a\u0432\u0430",
+    "salary": {
+      "string": "\u0434\u043e 110\u202f000 \u0440\u0443\u0431.",
+      "from": null,
+      "to": 110000,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/69614620?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e \u043e\u0431\u043e\u0440\u0443\u0434\u043e\u0432\u0430\u043d\u0438\u044f",
+    "companay": "\u041e\u041e\u041e\u00a0\u042d\u043a\u043e\u0442\u0430\u0440\u0430",
+    "place": "\u0425\u0438\u043c\u043a\u0438",
+    "salary": {
+      "string": "50\u202f000 \u2013 80\u202f000 \u0440\u0443\u0431.",
+      "from": 50000,
+      "to": 80000,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/69905718?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u043e\u0447\u043d\u043e\u0439 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433-\u043d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u0444\u0440\u0435\u0437\u0435\u0440\u043d\u043e\u0433\u043e \u043e\u0431\u0440\u0430\u0431\u0430\u0442\u044b\u0432\u0430\u044e\u0449\u0435\u0433\u043e \u0446\u0435\u043d\u0442\u0440\u0430 \u0427\u041f\u0423",
+    "companay": "\u041e\u041e\u041e\u00a0\u0420\u043e\u0433\u043e\u0441",
+    "place": "\u041c\u043e\u0441\u043a\u0432\u0430",
+    "salary": {
+      "string": "\u043e\u0442 165\u202f000 \u0440\u0443\u0431.",
+      "from": 165000,
+      "to": null,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/69030911?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041c\u0435\u0445\u0430\u043d\u0438\u043a-\u043d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u043e\u0431\u043e\u0440\u0443\u0434\u043e\u0432\u0430\u043d\u0438\u044f",
+    "companay": "\u041e\u041e\u041e\u00a0\u0420\u0443\u0441\u0445\u0438\u043c\u0442\u0435\u043a\u0441",
+    "place": "\u0421\u0442\u0430\u0440\u0430\u044f \u041a\u0443\u043f\u0430\u0432\u043d\u0430",
+    "salary": {
+      "string": "\u043e\u0442 66\u202f000 \u0440\u0443\u0431.",
+      "from": 66000,
+      "to": null,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/55471387?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u0441\u0442\u0430\u043d\u043a\u043e\u0432 \u0427\u041f\u0423 (\u0422\u0430\u043c\u0431\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c)",
+    "companay": "\u041e\u041e\u041e\u00a0\u041c\u0435\u0442\u0435\u043e\u0440\u0421\u0442\u0430\u0444\u0444",
+    "place": "\u0427\u0435\u0431\u043e\u043a\u0441\u0430\u0440\u044b",
+    "salary": {
+      "string": "110\u202f000 \u2013 132\u202f000 \u0440\u0443\u0431.",
+      "from": 110000,
+      "to": 132000,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/68567964?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u0442\u0435\u0440\u043c\u043e\u043f\u043b\u0430\u0441\u0442\u0430\u0432\u0442\u043e\u043c\u0430\u0442\u043e\u0432 (\u0422\u041f\u0410)",
+    "companay": "\u041e\u041e\u041e\u00a0\u0410\u043b\u044c\u0444\u0430",
+    "place": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433",
+    "salary": {
+      "string": "60\u202f000 \u2013 60\u202f000 \u0440\u0443\u0431.",
+      "from": 60000,
+      "to": 60000,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/69889529?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041e\u043f\u0435\u0440\u0430\u0442\u043e\u0440-\u043d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u0441\u0442\u0430\u043d\u043a\u0430 \u0441 \u0427\u041f\u0423 (\u043c\u0435\u0442\u0430\u043b\u043b\u043e\u043e\u0431\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u0444\u0440\u0435\u0437\u0435\u0440\u043d\u0430\u044f)",
+    "companay": "\u041e\u041e\u041e\u00a0\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u0435\u043d\u043d\u0430\u044f \u041a\u043e\u043c\u043f\u0430\u043d\u0438\u044f \u041d\u043e\u0432\u044b\u0435 \u0422\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438",
+    "place": "\u0415\u043a\u0430\u0442\u0435\u0440\u0438\u043d\u0431\u0443\u0440\u0433",
+    "salary": {
+      "string": "90\u202f000 \u2013 95\u202f000 \u0440\u0443\u0431.",
+      "from": 90000,
+      "to": 95000,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/69504024?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u0421\u043b\u0435\u0441\u0430\u0440\u044c-\u043d\u0430\u043b\u0430\u0434\u0447\u0438\u043a",
+    "companay": "\u041e\u041e\u041e\u00a0\u0422\u0435\u0440\u043c\u043e\u043a\u043e\u043d\u0442-\u041c\u041a",
+    "place": "\u0412\u0438\u0434\u043d\u043e\u0435",
+    "salary": {
+      "string": "60\u202f000 \u2013 80\u202f000 \u0440\u0443\u0431.",
+      "from": 60000,
+      "to": 80000,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/70373548?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u0444\u0440\u0435\u0437\u0435\u0440\u043d\u044b\u0445 \u0441\u0442\u0430\u043d\u043a\u043e\u0432 \u0441 \u0427\u041f\u0423 (\u0441\u0442\u0430\u043d\u043a\u0438 DMG Mori)",
+    "companay": "\u0417\u0410\u041e\u00a0\u041b\u041e\u041c\u041e \u041b\u0410\u0417\u0415\u0420",
+    "place": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433, \u0421\u0442\u0430\u0440\u0430\u044f \u0414\u0435\u0440\u0435\u0432\u043d\u044f",
+    "salary": {
+      "string": "80\u202f000 \u2013 120\u202f000 \u0440\u0443\u0431.",
+      "from": 80000,
+      "to": 120000,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/69761216?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041e\u043f\u0435\u0440\u0430\u0442\u043e\u0440-\u043d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u0441\u0442\u0430\u043d\u043a\u043e\u0432 \u0441 \u0427\u041f\u0423",
+    "companay": "\u041e\u041e\u041e\u00a0\u0420\u0430\u0434\u0438\u043e\u0438\u043d\u0436",
+    "place": "\u0421\u043c\u043e\u043b\u0435\u043d\u0441\u043a",
+    "salary": null,
+    "link": "https://tver.hh.ru/vacancy/70589673?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041e\u043f\u0435\u0440\u0430\u0442\u043e\u0440-\u043d\u0430\u043b\u0430\u0434\u0447\u0438\u043a\\\u043c\u0435\u0445\u0430\u043d\u0438\u043a \u043d\u0430 \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u043e (\u043f\u0440\u043e\u0434\u0443\u043a\u0442\u044b \u043f\u0438\u0442\u0430\u043d\u0438\u044f - \u0441\u043d\u0435\u043a\u0438)",
+    "companay": "\u041e\u041e\u041e\u00a0\u0411\u0438\u043e\u0424\u0443\u0434\u0422\u0435\u0445",
+    "place": "\u0425\u0438\u043c\u043a\u0438",
+    "salary": {
+      "string": "47\u202f000 \u2013 60\u202f000 \u0440\u0443\u0431.",
+      "from": 47000,
+      "to": 60000,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/69684176?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u0441\u0442\u0430\u043d\u043a\u043e\u0432 \u0441 \u041f\u0423",
+    "companay": "\u0412\u0438\u0440\u0438\u0430\u043b",
+    "place": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433",
+    "salary": {
+      "string": "76\u202f000 \u2013 88\u202f000 \u0440\u0443\u0431.",
+      "from": 76000,
+      "to": 88000,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/38252518?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041e\u043f\u0435\u0440\u0430\u0442\u043e\u0440-\u043d\u0430\u043b\u0430\u0434\u0447\u0438\u043a",
+    "companay": "\u0418\u0414\u0421 \u0411\u043e\u0440\u0436\u043e\u043c\u0438",
+    "place": "\u041b\u043e\u0431\u043d\u044f",
+    "salary": {
+      "string": "\u043e\u0442 60\u202f000 \u0440\u0443\u0431.",
+      "from": 60000,
+      "to": null,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/55902587?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u0421\u043b\u0435\u0441\u0430\u0440\u044c-\u043d\u0430\u043b\u0430\u0434\u0447\u0438\u043a",
+    "companay": "\u041e\u041e\u041e\u00a0\u0421\u043e\u043b\u0435\u0440\u0430\u043c\u0438\u0447\u0438",
+    "place": "\u0421\u043e\u043b\u043d\u0435\u0447\u043d\u043e\u0433\u043e\u0440\u0441\u043a",
+    "salary": {
+      "string": "\u043e\u0442 60\u202f000 \u0440\u0443\u0431.",
+      "from": 60000,
+      "to": null,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/69493231?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041e\u043f\u0435\u0440\u0430\u0442\u043e\u0440-\u043d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u043d\u0430 \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u043e",
+    "companay": "\u041e\u041e\u041e\u00a0\u0410\u0440\u0438\u0441\u0442\u043e\u043a\u0440\u0430\u0442",
+    "place": "\u041b\u043e\u0431\u043d\u044f",
+    "salary": {
+      "string": "\u043e\u0442 50\u202f000 \u0440\u0443\u0431.",
+      "from": 50000,
+      "to": null,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/69522233?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u0418\u043d\u0436\u0435\u043d\u0435\u0440-\u043d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u041a\u0418\u041f\u0438\u0410 \u043a\u043e\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043e\u0431\u043e\u0440\u0443\u0434\u043e\u0432\u0430\u043d\u0438\u044f",
+    "companay": "\u041e\u041e\u041e\u00a0\u042d\u0440\u0433\u043e\u0413\u0430\u0437\u041c\u043e\u043d\u0442\u0430\u0436",
+    "place": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433, \u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0438\u0435 \u0432\u043e\u0440\u043e\u0442\u0430 \u0438 \u0435\u0449\u0435\u00a01\u00a0",
+    "salary": {
+      "string": "\u043e\u0442 80\u202f000 \u0440\u0443\u0431.",
+      "from": 80000,
+      "to": null,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/70114520?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u0422\u0435\u0445\u043d\u0438\u043a-\u043d\u0430\u043b\u0430\u0434\u0447\u0438\u043a",
+    "companay": "\u0422\u041e\u041e\u00a0\u0422\u043e\u0440\u0433\u043e\u0432\u044b\u0439 \u0414\u043e\u043c \u042d\u043a\u043e\u043b\u043e\u0441",
+    "place": "\u0410\u0441\u0442\u0430\u043d\u0430",
+    "salary": {
+      "string": "170\u202f000 \u2013 300\u202f000 KZT",
+      "from": 170000,
+      "to": 300000,
+      "valute": "KZT"
+    },
+    "link": "https://tver.hh.ru/vacancy/69879536?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u043e\u0431\u043e\u0440\u0443\u0434\u043e\u0432\u0430\u043d\u0438\u044f \u043d\u0430 \u0445\u043b\u0435\u0431\u043e\u043f\u0435\u043a\u0430\u0440\u043d\u043e\u0435 \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u043e",
+    "companay": "\u041e\u041e\u041e\u00a0\u0425\u041b\u0415\u0411 \u041d\u0410 \u0420\u0410\u0414\u041e\u0421\u0422\u042c",
+    "place": "\u041d\u043e\u0433\u0438\u043d\u0441\u043a",
+    "salary": {
+      "string": "70\u202f000 \u2013 80\u202f000 \u0440\u0443\u0431.",
+      "from": 70000,
+      "to": 80000,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "link": "https://tver.hh.ru/vacancy/69990308?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=%D0%9D%D0%B0%D0%BB%D0%B0%D0%B4%D1%87%D0%B8%D0%BA",
+    "source": "hh.ru"
+  },
+  {
+    "name": "\u0410\u0432\u0442\u043e\u043c\u0435\u0445\u0430\u043d\u0438\u043a-\u0430\u0432\u0442\u043e\u0441\u043b\u0435\u0441\u0430\u0440\u044c",
+    "companay": "\u0421\u0422\u041e \"\u0424\u041e\u0420\u0412\u0410\u0420\u0414\"",
+    "place": "\u0422\u0432\u0435\u0440\u044c, \u0443\u043b \u0421\u043f\u0430\u0440\u0442\u0430\u043a\u0430, \u0434 47",
+    "salary": {
+      "string": "\u0434\u043e 100\u00a0000 \u0440\u0443\u0431.",
+      "from": null,
+      "to": 100000,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "source": "rabota.ru",
+    "link": "http://rabota.ru/vacancy/41618568/?search_id=16647708437923pcq6g3lu37"
+  },
+  {
+    "name": "\u041c\u043e\u0442\u043e\u0440\u0438\u0441\u0442 \u0446\u0435\u043c\u0435\u043d\u0442\u0438\u0440\u043e\u0432\u043e\u0447\u043d\u043e\u0433\u043e \u0430\u0433\u0440\u0435\u0433\u0430\u0442\u0430 6 \u0440\u0430\u0437\u0440\u044f\u0434\u0430",
+    "companay": "\u041e\u041e\u041e \"\u0410\u0447\u0438\u043c\u043d\u0435\u0444\u0442\u0435\u0433\u0430\u0437\u0441\u0435\u0440\u0432\u0438\u0441\"",
+    "place": "\u0412\u0430\u0445\u0442\u0430 \u0432 \u041d\u043e\u0432\u043e\u043c \u0423\u0440\u0435\u043d\u0433\u043e\u0435",
+    "salary": {
+      "string": "\u043e\u0442 130\u00a0000 \u0440\u0443\u0431.",
+      "from": 130000,
+      "to": null,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "source": "rabota.ru",
+    "link": "http://rabota.ru/vacancy/46665626/?search_id=16647708437923pcq6g3lu37"
+  },
+  {
+    "name": "\u0410\u0432\u0442\u043e\u0441\u043b\u0435\u0441\u0430\u0440\u044c-\u0430\u0432\u0442\u043e\u043c\u0435\u0445\u0430\u043d\u0438\u043a",
+    "companay": "\u0410\u0421\u0412 \u0421\u0442\u0440\u043e\u0439",
+    "place": "\u0412\u0430\u0445\u0442\u0430 \u0432 \u041c\u043e\u0441\u043a\u0432\u0435",
+    "salary": {
+      "string": "\u043e\u0442 50\u00a0000 \u0440\u0443\u0431.",
+      "from": 50000,
+      "to": null,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "source": "rabota.ru",
+    "link": "http://rabota.ru/vacancy/46937015/?search_id=16647708437923pcq6g3lu37"
+  },
+  {
+    "name": "\u0410\u0432\u0442\u043e\u0441\u043b\u0435\u0441\u0430\u0440\u044c",
+    "companay": "\u0410\u0412\u0422\u041e\u0414\u0415\u041b\u041e, \u041e\u041e\u041e",
+    "place": "\u0412\u0430\u0445\u0442\u0430 \u0432 \u041b\u044e\u0431\u0435\u0440\u0446\u0430\u0445",
+    "salary": {
+      "string": "40\u00a0000\u00a0\u2014 125\u00a0000 \u0440\u0443\u0431.",
+      "from": 40000,
+      "to": 125000,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "source": "rabota.ru",
+    "link": "http://rabota.ru/vacancy/44838890/?search_id=16647708437923pcq6g3lu37"
+  },
+  {
+    "name": "\u041e\u043f\u0435\u0440\u0430\u0442\u043e\u0440-\u043d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u0441\u0442\u0430\u043d\u043a\u043e\u0432 \u0441 \u0427\u041f\u0423",
+    "companay": "\u041e\u041e\u041e \u041f\u041d\u0424 \"\u041b\u0413 \u0430\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u043a\u0430\"",
+    "place": "\u041f\u0435\u0440\u0435\u0435\u0437\u0434 \u0432 \u0412\u0435\u0440\u0435\u044e",
+    "salary": {
+      "string": "65\u00a0000\u00a0\u2014 100\u00a0000 \u0440\u0443\u0431.",
+      "from": 65000,
+      "to": 100000,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "source": "rabota.ru",
+    "link": "http://rabota.ru/vacancy/46956617/?search_id=16647708437923pcq6g3lu37"
+  },
+  {
+    "name": "\u0421\u043b\u0435\u0441\u0430\u0440\u044c-\u043c\u0435\u0445\u0430\u043d\u0438\u043a",
+    "companay": "\u041a\u0430\u043b\u0443\u0436\u0441\u043a\u0438\u0439 \u0437\u0430\u0432\u043e\u0434 \u043f\u043e \u0440\u0435\u043c\u043e\u043d\u0442\u0443 \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u0434\u0432\u0438\u0433\u0430\u0442\u0435\u043b\u0435\u0439",
+    "place": "\u041f\u0435\u0440\u0435\u0435\u0437\u0434 \u0432 \u041c\u0430\u043b\u043e\u044f\u0440\u043e\u0441\u043b\u0430\u0432\u0446\u0430",
+    "salary": null,
+    "source": "rabota.ru",
+    "link": "http://rabota.ru/vacancy/46961334/?search_id=16647708437923pcq6g3lu37"
+  },
+  {
+    "name": "\u041e\u043f\u0435\u0440\u0430\u0442\u043e\u0440/\u043d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u0441\u0442\u0430\u043d\u043a\u043e\u0432 \u0438 \u043c\u0430\u043d\u0438\u043f\u0443\u043b\u044f\u0442\u043e\u0440\u043e\u0432",
+    "companay": "\u041e\u041e\u041e \"\u042d\u0432\u0435\u0440\u0435\u0441\u0442\"",
+    "place": "\u0412\u0430\u0445\u0442\u0430 \u0432 \u0413\u0430\u0432\u0440\u0438\u043b\u043e\u0432\u043e\u043c-\u042f\u043c\u0435",
+    "salary": null,
+    "source": "rabota.ru",
+    "link": "http://rabota.ru/vacancy/46971678/?search_id=16647708437923pcq6g3lu37"
+  },
+  {
+    "name": "\u041e\u043f\u0435\u0440\u0430\u0442\u043e\u0440-\u043d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u0441\u0442\u0430\u043d\u043a\u043e\u0432 \u0441 \u0427\u041f\u0423",
+    "companay": "\u041f\u0440\u043e\u043c\u0441\u0442\u0440\u043e\u0439\u043a\u043e\u043c\u043f\u043b\u0435\u043a\u0442",
+    "place": "\u0412\u0430\u0445\u0442\u0430 \u0432 \u041d\u0430\u0431\u0435\u0440\u0435\u0436\u043d\u044b\u0445 \u0427\u0435\u043b\u043d\u0430\u0445",
+    "salary": {
+      "string": "125\u00a0000\u00a0\u2014 148\u00a0000 \u0440\u0443\u0431.",
+      "from": 125000,
+      "to": 148000,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "source": "rabota.ru",
+    "link": "http://rabota.ru/vacancy/46930444/?search_id=16647708437923pcq6g3lu37"
+  },
+  {
+    "name": "\u041d\u0430\u043b\u0430\u0434\u0447\u0438\u043a \u0441\u0442\u0430\u043d\u043a\u043e\u0432 \u0438 \u043c\u0430\u043d\u0438\u043f\u0443\u043b\u044f\u0442\u043e\u0440\u043e\u0432 \u0441 \u0427\u041f\u0423 (\u0433. \u0421\u0442\u0443\u043f\u0438\u043d\u043e)",
+    "companay": "\u041e\u041e\u041e \u0414\u0435\u043b\u043e\u0432\u043e\u0439 \u043f\u043e\u0434\u0445\u043e\u0434",
+    "place": "\u0412\u0430\u0445\u0442\u0430 \u0432 \u0421\u0442\u0443\u043f\u0438\u043d\u043e",
+    "salary": {
+      "string": "\u043e\u0442 90\u00a0000 \u0440\u0443\u0431.",
+      "from": 90000,
+      "to": null,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "source": "rabota.ru",
+    "link": "http://rabota.ru/vacancy/46731511/?search_id=16647708437923pcq6g3lu37"
+  },
+  {
+    "name": "\u0421\u043b\u0435\u0441\u0430\u0440\u044c \u041a\u0418\u041f\u0438\u0410",
+    "companay": "JCat, \u0441\u0435\u0440\u0432\u0438\u0441 \u0440\u0430\u0437\u043c\u0435\u0449\u0435\u043d\u0438\u044f \u043e\u0431\u044a\u044f\u0432\u043b\u0435\u043d\u0438\u0439",
+    "place": "\u041f\u0435\u0440\u0435\u0435\u0437\u0434 \u0432 \u0420\u0436\u0435\u0432",
+    "salary": {
+      "string": "\u043e\u0442 35\u00a0000 \u0440\u0443\u0431.",
+      "from": 35000,
+      "to": null,
+      "valute": "\u0440\u0443\u0431"
+    },
+    "source": "rabota.ru",
+    "link": "http://rabota.ru/vacancy/46976585/?search_id=16647708437923pcq6g3lu37"
+  }
+]
