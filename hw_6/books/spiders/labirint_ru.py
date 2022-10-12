@@ -27,6 +27,7 @@ class LabirintRuSpider(scrapy.Spider):
             lnk = f'{site}{book}'
             yield response.follow(lnk, callback=self.parse_book)
 
+
     def parse_book(self, response: HtmlResponse):
         link = response.url
         name = response.css('h1::text').get().split(':', 1)[1].strip()
