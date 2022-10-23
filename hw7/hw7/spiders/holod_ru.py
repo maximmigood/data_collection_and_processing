@@ -24,8 +24,6 @@ class HolodRuSpider(scrapy.Spider):
         name = response.xpath('//h1/text()').get()
         old_price = response.xpath('//div[@class="price_old"]/text()').get()
         actual_price = response.xpath('//div[@class="prc_val"]/span/text()').get()
-        # //div[@class ="swiper-initialized card-product-img__preview"]
-        # //div[@class ="swiper-initialized card-product-img__inner"]
         url = response.url
         print(f'++++++++++++++++++++++++++++++++++++++++\n'
               f'{name}\n'
